@@ -1,0 +1,26 @@
+Friday, January 12th, 2018, 2:33:45 PM User: GET STARTED
+Friday, January 12th, 2018, 2:33:45 PM User: 1
+Friday, January 12th, 2018, 2:33:48 PM CloBot: Hello, I am KishanBot, what would you like to know with respect to IDFC Bank?
+Friday, January 12th, 2018, 2:34:12 PM User: CORPORATE
+Friday, January 12th, 2018, 2:34:12 PM User: 1
+Friday, January 12th, 2018, 2:35:57 PM User: ACCOUNTS
+Friday, January 12th, 2018, 2:35:57 PM User: 1
+Friday, January 12th, 2018, 2:35:58 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Friday, January 12th, 2018, 2:37:09 PM User: Raj
+Friday, January 12th, 2018, 2:37:09 PM User: 1
+Friday, January 12th, 2018, 2:37:10 PM CloBot: Please tell us your age group? :
+Friday, January 12th, 2018, 2:37:17 PM User: middle
+Friday, January 12th, 2018, 2:37:17 PM User: 1
+Friday, January 12th, 2018, 2:37:18 PM CloBot: City :
+Friday, January 12th, 2018, 2:37:23 PM User: Mumbai
+Friday, January 12th, 2018, 2:37:23 PM User: 1
+Friday, January 12th, 2018, 2:37:24 PM CloBot: Gender :
+Friday, January 12th, 2018, 2:37:29 PM User: Male
+Friday, January 12th, 2018, 2:37:29 PM User: 1
+Friday, January 12th, 2018, 2:37:30 PM CloBot: Occupation :
+Friday, January 12th, 2018, 2:37:39 PM User: Service
+Friday, January 12th, 2018, 2:37:39 PM User: 1
+Friday, January 12th, 2018, 2:37:39 PM CloBot: Contact No :
+Friday, January 12th, 2018, 2:37:46 PM User: 9833718283
+Friday, January 12th, 2018, 2:37:46 PM User: 1
+Friday, January 12th, 2018, 2:37:47 PM CloBot: Please enter the OTP sent to your mobile number:

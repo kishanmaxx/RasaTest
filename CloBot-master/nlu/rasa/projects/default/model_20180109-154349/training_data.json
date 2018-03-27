@@ -1,0 +1,536 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "get started",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "GET STARTED",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "Get started",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "getting started",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "Getting Started",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hey",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hey",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hey",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "howdy",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hey there",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hello there",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hello",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hi",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "good morning",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "good evening",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "dear sir",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "yes",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "yep",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "yeah",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "indeed",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "that's right",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "ok",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "great",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "right, thank you",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "correct",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "great choice",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "sounds really good",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "i'm looking for a place to eat",
+        "entities": [],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "I want to grab lunch",
+        "entities": [],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "I am searching for a dinner spot",
+        "entities": [],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "what is slonkit",
+        "entities": [],
+        "intent": "query_1"
+      },
+      {
+        "text": "what is slonkit?",
+        "entities": [],
+        "intent": "query_1"
+      },
+      {
+        "text": "tell me about slonkit",
+        "entities": [],
+        "intent": "query_1"
+      },
+      {
+        "text": "can you tell me about slonkit",
+        "entities": [],
+        "intent": "query_1"
+      },
+      {
+        "text": "why should I give my child a slonkit card?",
+        "entities": [],
+        "intent": "query_2"
+      },
+      {
+        "text": "why should my child get a slonkit card?",
+        "entities": [],
+        "intent": "query_2"
+      },
+      {
+        "text": "give me some good uses for the slonkit card?",
+        "entities": [],
+        "intent": "query_2"
+      },
+      {
+        "text": "who can add money to my slonkit card?",
+        "entities": [],
+        "intent": "query_3"
+      },
+      {
+        "text": "can i add money to a slonkit card?",
+        "entities": [],
+        "intent": "query_3"
+      },
+      {
+        "text": "add money on a slonkit card",
+        "entities": [],
+        "intent": "query_3"
+      },
+      {
+        "text": "what is the most money I can put in a slonkit card",
+        "entities": [],
+        "intent": "query_4"
+      },
+      {
+        "text": "how much money can I put in a slonkit card",
+        "entities": [],
+        "intent": "query_4"
+      },
+      {
+        "text": "maximum money i can put in a slonkit card",
+        "entities": [],
+        "intent": "query_4"
+      },
+      {
+        "text": "how old is my child supposed to be to get a slonkit card",
+        "entities": [],
+        "intent": "query_5"
+      },
+      {
+        "text": "what is the minimum age for a slonkit card",
+        "entities": [],
+        "intent": "query_5"
+      },
+      {
+        "text": "what is the minimum age for my child to get a slonkit card",
+        "entities": [],
+        "intent": "query_5"
+      },
+      {
+        "text": "can I give my domestic worker a slonkit card",
+        "entities": [],
+        "intent": "query_6"
+      },
+      {
+        "text": "can I give house worker a slonkit card",
+        "entities": [],
+        "intent": "query_6"
+      },
+      {
+        "text": "Do you get slonkit cards for workers",
+        "entities": [],
+        "intent": "query_6"
+      },
+      {
+        "text": "How do I add money on my child\u2019s Slonkit card?",
+        "entities": [],
+        "intent": "query_7"
+      },
+      {
+        "text": "How to I add money on my child\u2019s Slonkit card?",
+        "entities": [],
+        "intent": "query_7"
+      },
+      {
+        "text": "How do I add money on my child\u2019s Slonkit card",
+        "entities": [],
+        "intent": "query_7"
+      },
+      {
+        "text": "How long will it take for the money to get credited to my child\u2019s Slonkit card?",
+        "entities": [],
+        "intent": "query_8"
+      },
+      {
+        "text": "How long will it take for the money to get transferred to my child\u2019s Slonkit card?",
+        "entities": [],
+        "intent": "query_8"
+      },
+      {
+        "text": "Time taken to transfer money to my child's Slonkit card",
+        "entities": [],
+        "intent": "query_8"
+      },
+      {
+        "text": "Can I use Credit Card to add money on my child\u2019s card?",
+        "entities": [],
+        "intent": "query_9"
+      },
+      {
+        "text": "Can I use Debit Card to add money on my child\u2019s card?",
+        "entities": [],
+        "intent": "query_9"
+      },
+      {
+        "text": "Can I use net banking to add money on my child\u2019s card?",
+        "entities": [],
+        "intent": "query_9"
+      },
+      {
+        "text": "i'm looking for a place in the north of town",
+        "entities": [
+          {
+            "entity": "location",
+            "start": 31,
+            "value": "north",
+            "end": 36
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "show me chinese restaurants",
+        "entities": [
+          {
+            "entity": "cuisine",
+            "start": 8,
+            "value": "chinese",
+            "end": 15
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "show me chines restaurants",
+        "entities": [
+          {
+            "entity": "cuisine",
+            "start": 8,
+            "value": "chinese",
+            "end": 14
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "show me a mexican place in the centre",
+        "entities": [
+          {
+            "entity": "location",
+            "start": 31,
+            "value": "centre",
+            "end": 37
+          },
+          {
+            "entity": "cuisine",
+            "start": 10,
+            "value": "mexican",
+            "end": 17
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "i am looking for an indian spot called olaolaolaolaolaola",
+        "entities": [
+          {
+            "entity": "cuisine",
+            "start": 20,
+            "value": "indian",
+            "end": 26
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "search for restaurants",
+        "entities": [],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "anywhere in the west",
+        "entities": [
+          {
+            "entity": "location",
+            "start": 16,
+            "value": "west",
+            "end": 20
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "anywhere near 18328",
+        "entities": [
+          {
+            "entity": "location",
+            "start": 14,
+            "value": "18328",
+            "end": 19
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "I am looking for asian fusion food",
+        "entities": [
+          {
+            "entity": "cuisine",
+            "start": 17,
+            "value": "asian fusion",
+            "end": 29
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "I am looking a restaurant in 29432",
+        "entities": [
+          {
+            "entity": "location",
+            "start": 29,
+            "value": "29432",
+            "end": 34
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "I am looking for mexican indian fusion",
+        "entities": [
+          {
+            "entity": "cuisine",
+            "start": 17,
+            "value": "mexican indian fusion",
+            "end": 38
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "central indian restaurant",
+        "entities": [
+          {
+            "entity": "location",
+            "start": 0,
+            "value": "central",
+            "end": 7
+          },
+          {
+            "entity": "cuisine",
+            "start": 8,
+            "value": "indian",
+            "end": 14
+          }
+        ],
+        "intent": "restaurant_search"
+      },
+      {
+        "text": "Restart",
+        "entities": [],
+        "intent": "restart"
+      },
+      {
+        "text": "RESTART",
+        "entities": [],
+        "intent": "restart"
+      },
+      {
+        "text": "ReStart",
+        "entities": [],
+        "intent": "restart"
+      },
+      {
+        "text": "restart",
+        "entities": [],
+        "intent": "restart"
+      },
+      {
+        "text": "bye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "goodbye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "good bye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "stop",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "end",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "farewell",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "Bye bye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "have a nice day",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "see you around",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "see you later",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "have a good one",
+        "entities": [],
+        "intent": "goodbye"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "synonyms": [
+          "Chinese",
+          "chines",
+          "Chines"
+        ],
+        "value": "chinese"
+      }
+    ],
+    "regex_features": [
+      {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+      }
+    ]
+  }
+}

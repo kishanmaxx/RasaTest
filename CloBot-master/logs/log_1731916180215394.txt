@@ -1,0 +1,2342 @@
+Monday, October 2nd, 2017, 3:00:42 PM User: hello
+Monday, October 2nd, 2017, 3:00:44 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Monday, October 2nd, 2017, 3:00:58 PM User: Non Employee
+Monday, October 2nd, 2017, 3:00:58 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Monday, October 2nd, 2017, 3:01:03 PM User: Job Seeker
+Monday, October 2nd, 2017, 3:01:04 PM CloBot: Hope you are all set. Answer these questions on Java and get one step closer to working with us. Ready to begin?
+Monday, October 2nd, 2017, 3:01:08 PM User: Yes
+Monday, October 2nd, 2017, 3:01:09 PM CloBot: Great! We have 12 questions coming your way. Answer it as quickly as possible to get shortlisted for the next round. Type 'Start' to start
+Monday, October 2nd, 2017, 3:01:14 PM User: Start
+Monday, October 2nd, 2017, 3:01:15 PM CloBot: Which mechanism is used when a thread is paused while running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed?
+Monday, October 2nd, 2017, 3:01:18 PM User: 2
+Monday, October 2nd, 2017, 3:01:19 PM CloBot: Which of the following can be marked static ?
+Tuesday, October 3rd, 2017, 11:10:55 AM User: 1
+Tuesday, October 3rd, 2017, 11:10:57 AM CloBot: Sorry, I could not understand
+Tuesday, October 3rd, 2017, 11:11:00 AM User: Restart
+Tuesday, October 3rd, 2017, 11:11:04 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Tuesday, October 3rd, 2017, 11:11:15 AM User: Employee
+Tuesday, October 3rd, 2017, 11:11:16 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Tuesday, October 3rd, 2017, 11:11:27 AM User: People
+Tuesday, October 3rd, 2017, 11:11:27 AM CloBot: What is your query?
+Tuesday, October 3rd, 2017, 11:11:31 AM User: Restart
+Tuesday, October 3rd, 2017, 11:11:33 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Tuesday, October 3rd, 2017, 11:11:36 AM User: Employee
+Tuesday, October 3rd, 2017, 11:11:37 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Tuesday, October 3rd, 2017, 3:40:51 PM User: Restart
+Tuesday, October 3rd, 2017, 3:41:01 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Tuesday, October 3rd, 2017, 3:41:19 PM User: Non Employee
+Tuesday, October 3rd, 2017, 3:41:20 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Tuesday, October 3rd, 2017, 3:41:27 PM User: Customer
+Tuesday, October 3rd, 2017, 3:41:28 PM CloBot: Please let me know your query
+Tuesday, October 3rd, 2017, 3:41:42 PM User: hi
+Tuesday, October 3rd, 2017, 3:41:46 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Tuesday, October 3rd, 2017, 3:41:53 PM User: employee
+Tuesday, October 3rd, 2017, 3:41:55 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, October 4th, 2017, 11:47:52 AM User: hi
+Wednesday, October 4th, 2017, 11:47:55 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 11:52:46 AM User: Employee
+Wednesday, October 4th, 2017, 11:52:46 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, October 4th, 2017, 11:53:05 AM User: exit
+Wednesday, October 4th, 2017, 11:53:12 AM CloBot: Sorry Kishan, I could not understand
+Wednesday, October 4th, 2017, 11:53:13 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, October 4th, 2017, 11:53:31 AM User: Restart
+Wednesday, October 4th, 2017, 11:53:34 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 12:22:00 PM User: RESTART
+Wednesday, October 4th, 2017, 12:22:02 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 12:22:20 PM User: CUSTOMER
+Wednesday, October 4th, 2017, 12:22:21 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 2:26:05 PM User: Employee
+Wednesday, October 4th, 2017, 2:26:07 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, October 4th, 2017, 2:26:10 PM User: Finance
+Wednesday, October 4th, 2017, 2:26:10 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 2:26:29 PM User: CASH
+Wednesday, October 4th, 2017, 2:26:35 PM CloBot: Sorry Kishan I do not have an answer to this question yet. We will get back to you shortly
+Wednesday, October 4th, 2017, 2:26:36 PM CloBot: Would you like to know anything else Kishan? (Yes/No)
+Wednesday, October 4th, 2017, 2:26:43 PM User: Yes
+Wednesday, October 4th, 2017, 2:26:44 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 2:27:03 PM User: CUSTOMER SERVICE
+Wednesday, October 4th, 2017, 2:27:07 PM CloBot: Sorry Kishan I do not have an answer to this question yet. We will get back to you shortly
+Wednesday, October 4th, 2017, 2:27:09 PM CloBot: Would you like to know anything else Kishan? (Yes/No)
+Wednesday, October 4th, 2017, 2:27:25 PM User: RESTART
+Wednesday, October 4th, 2017, 2:27:27 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 2:27:32 PM User: Non Employee
+Wednesday, October 4th, 2017, 2:27:33 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 2:27:38 PM User: Job Seeker
+Wednesday, October 4th, 2017, 2:27:40 PM CloBot: Hope you are all set. Answer these questions on Java and get one step closer to working with us. Ready to begin?
+Wednesday, October 4th, 2017, 2:27:49 PM User: Yes
+Wednesday, October 4th, 2017, 2:27:50 PM CloBot: Great! We have 12 questions coming your way. Answer it as quickly as possible to get shortlisted for the next round. Type 'Start' to start
+Wednesday, October 4th, 2017, 2:37:11 PM User: START
+Wednesday, October 4th, 2017, 2:37:13 PM CloBot:  Which collection class associates values with keys, and orders the keys according to their natural order?
+Wednesday, October 4th, 2017, 3:16:48 PM User: 1
+Wednesday, October 4th, 2017, 3:16:49 PM CloBot: Why we use array as a parameter of main method?
+Wednesday, October 4th, 2017, 3:16:57 PM User: 3
+Wednesday, October 4th, 2017, 3:16:58 PM CloBot:  How many reserved keywords are currently defined in the Java language?
+Wednesday, October 4th, 2017, 3:17:27 PM User: 2
+Wednesday, October 4th, 2017, 3:17:29 PM CloBot: Which of the following was not introduced with Java 5 ?
+Wednesday, October 4th, 2017, 3:17:33 PM User: 2
+Wednesday, October 4th, 2017, 3:17:35 PM CloBot: Which of the following collections stores its elements in insertion Order ?
+Wednesday, October 4th, 2017, 3:19:04 PM User: 1
+Wednesday, October 4th, 2017, 3:19:06 PM CloBot: Which keyword is used to inherit class?
+Wednesday, October 4th, 2017, 3:19:10 PM User: 3
+Wednesday, October 4th, 2017, 3:19:11 PM CloBot: Which keyword is used to provide explicit access of a code block to single thread ?
+Wednesday, October 4th, 2017, 3:19:14 PM User: 2
+Wednesday, October 4th, 2017, 3:19:15 PM CloBot: How many bits are used to represent Unicode ?
+Wednesday, October 4th, 2017, 3:19:17 PM User: 2
+Wednesday, October 4th, 2017, 3:19:18 PM CloBot: In Runnable, many threads share the same object instance
+Wednesday, October 4th, 2017, 3:19:20 PM User: 1
+Wednesday, October 4th, 2017, 3:19:21 PM CloBot: Which is not a valid keyword in java?
+Wednesday, October 4th, 2017, 3:19:24 PM User: 2
+Wednesday, October 4th, 2017, 3:19:25 PM CloBot: Program which executes applet is known as
+Wednesday, October 4th, 2017, 3:19:26 PM User: 2
+Wednesday, October 4th, 2017, 3:19:28 PM CloBot: A constructor that is automatically generated in the absence of explicit constructors called?
+Wednesday, October 4th, 2017, 7:11:42 PM User: restart
+Wednesday, October 4th, 2017, 7:11:44 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 7:11:48 PM User: Non Employee
+Wednesday, October 4th, 2017, 7:11:49 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 7:11:52 PM User: Customer
+Wednesday, October 4th, 2017, 7:11:53 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:11:56 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:11:57 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:12:15 PM User: Banking Services
+Wednesday, October 4th, 2017, 7:12:16 PM CloBot: Sorry Kishan, I could not understand
+Wednesday, October 4th, 2017, 7:12:20 PM User: Restart
+Wednesday, October 4th, 2017, 7:12:22 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 7:22:10 PM User: Non Employee
+Wednesday, October 4th, 2017, 7:22:11 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 7:22:14 PM User: Customer
+Wednesday, October 4th, 2017, 7:22:15 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:22:35 PM User: credit card
+Wednesday, October 4th, 2017, 7:22:36 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:30:22 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:30:23 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 7:30:52 PM User: Non Employee
+Wednesday, October 4th, 2017, 7:30:53 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 7:30:56 PM User: Customer
+Wednesday, October 4th, 2017, 7:30:57 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:31:00 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:31:01 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:31:36 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:31:38 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 7:31:53 PM User: Non Employee
+Wednesday, October 4th, 2017, 7:31:55 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 7:31:58 PM User: Customer
+Wednesday, October 4th, 2017, 7:31:58 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:32:03 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:32:04 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:32:07 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:32:08 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:33:04 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:33:06 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 7:33:09 PM User: Employee
+Wednesday, October 4th, 2017, 7:33:10 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, October 4th, 2017, 7:33:15 PM User: Restart
+Wednesday, October 4th, 2017, 7:33:16 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 7:33:18 PM User: Non Employee
+Wednesday, October 4th, 2017, 7:33:20 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 7:33:23 PM User: Customer
+Wednesday, October 4th, 2017, 7:33:24 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 7:33:26 PM User: Credit Card
+Wednesday, October 4th, 2017, 7:33:27 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:03:25 PM User: apply credit card
+Wednesday, October 4th, 2017, 9:03:27 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:03:30 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:03:30 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:03:32 PM User: Customer
+Wednesday, October 4th, 2017, 9:03:33 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:03:35 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:03:36 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:03:46 PM User: apply credit card
+Wednesday, October 4th, 2017, 9:03:47 PM CloBot: Hey Kishan, You will be eligible if you are/ you have: 
+ * Of Indian origin/ non-resident Indian/ foreign citizen residing in India for employment  
+ * An acceptable CIBIL score 
+ * A steady income verified from Income tax returns/ salary certificates  
+ * Completed your KYC formalities 
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:04:41 PM User: apply credit card
+Wednesday, October 4th, 2017, 9:04:42 PM CloBot: Hey Kishan, You will be eligible if you are/ you have: 
+ * Of Indian origin/ non-resident Indian/ foreign citizen residing in India for employment  
+ * An acceptable CIBIL score 
+ * A steady income verified from Income tax returns/ salary certificates  
+ * Completed your KYC formalities 
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:12:49 PM User: apply credit card
+Wednesday, October 4th, 2017, 9:12:50 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:12:52 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:12:53 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:12:55 PM User: Customer
+Wednesday, October 4th, 2017, 9:12:56 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:12:58 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:12:59 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:13:07 PM User: apply credit card
+Wednesday, October 4th, 2017, 9:13:08 PM CloBot: Hey Kishan, Submit a duly completed and signed application form to the Branch and make sure your KYC documents are verified.  
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:14:24 PM User: credit card eligibility
+Wednesday, October 4th, 2017, 9:14:25 PM CloBot: Hey Kishan, You will be eligible if you are/ you have: 
+ * Of Indian origin/ non-resident Indian/ foreign citizen residing in India for employment  
+ * An acceptable CIBIL score 
+ * A steady income verified from Income tax returns/ salary certificates  
+ * Completed your KYC formalities 
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:39:32 PM User: restart
+Wednesday, October 4th, 2017, 9:39:33 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:39:35 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:39:35 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:39:39 PM User: Customer
+Wednesday, October 4th, 2017, 9:39:40 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:39:43 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:39:43 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:40:06 PM User: credit card for minor
+Wednesday, October 4th, 2017, 9:40:06 PM CloBot: Minors are not eligible for Credit Cards. 
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:40:56 PM User: billing options
+Wednesday, October 4th, 2017, 9:40:58 PM CloBot: Two types of Billing are available –  
+ * Branch Billing cards wherein the bill amount for the usages are debited to the charge account on the due date of bill by the Bank.  
+ * Direct Billing card wherein the card holder is permitted to make payment of the bill for his card usages on his own on or before the due date. 
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:48:33 PM User: restart
+Wednesday, October 4th, 2017, 9:48:34 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:48:36 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:48:37 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:48:40 PM User: Customer
+Wednesday, October 4th, 2017, 9:48:41 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:48:43 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:48:44 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:49:45 PM User: types of credit cards
+Wednesday, October 4th, 2017, 9:49:46 PM CloBot: *	India card 
+ *	India Gold Card 
+ *	International Card 
+ *	International Gold card 
+ *	Platinum Privilege card
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:51:51 PM User: restart
+Wednesday, October 4th, 2017, 9:51:52 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:51:54 PM User: Employee
+Wednesday, October 4th, 2017, 9:51:55 PM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Wednesday, October 4th, 2017, 9:52:00 PM User: Restart
+Wednesday, October 4th, 2017, 9:52:01 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:52:04 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:52:05 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:52:07 PM User: Customer
+Wednesday, October 4th, 2017, 9:52:08 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:52:10 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:52:11 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:52:25 PM User: apply credit card
+Wednesday, October 4th, 2017, 9:52:26 PM CloBot: Hey Kishan, Submit a duly completed and signed application form to the Branch and make sure your KYC documents are verified.  
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:52:41 PM User: types of bills
+Wednesday, October 4th, 2017, 9:52:41 PM CloBot: Sorry Kishan, I could not understand
+Wednesday, October 4th, 2017, 9:53:11 PM User: bill types
+Wednesday, October 4th, 2017, 9:53:22 PM CloBot: Sorry Kishan, I could not understand
+Wednesday, October 4th, 2017, 9:53:46 PM User: Restart
+Wednesday, October 4th, 2017, 9:53:48 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:53:51 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:53:52 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:53:54 PM User: Customer
+Wednesday, October 4th, 2017, 9:53:55 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:53:57 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:53:58 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:54:05 PM User: bill types
+Wednesday, October 4th, 2017, 9:54:06 PM CloBot: Two types of Billing are available –  
+ * Branch Billing cards wherein the bill amount for the usages are debited to the charge account on the due date of bill by the Bank.  
+ * Direct Billing card wherein the card holder is permitted to make payment of the bill for his card usages on his own on or before the due date. 
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:54:22 PM User: types of credit cards
+Wednesday, October 4th, 2017, 9:54:23 PM CloBot: *	India card
+ *	India Gold Card
+* International Card
+ * International Gold card
+ * Platinum Privilege card
+ If you have further queries related to credit card, Please type your question
+Wednesday, October 4th, 2017, 9:55:42 PM User: types of credit cards
+Wednesday, October 4th, 2017, 9:55:45 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Wednesday, October 4th, 2017, 9:55:48 PM User: Non Employee
+Wednesday, October 4th, 2017, 9:55:49 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Wednesday, October 4th, 2017, 9:55:52 PM User: Customer
+Wednesday, October 4th, 2017, 9:55:53 PM CloBot: What is your query?
+Wednesday, October 4th, 2017, 9:55:55 PM User: Credit Card
+Wednesday, October 4th, 2017, 9:55:56 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Wednesday, October 4th, 2017, 9:56:12 PM User: types of credit cards
+Wednesday, October 4th, 2017, 9:56:13 PM CloBot: * India card
+* India Gold Card
+* International Card
+* International Gold card
+* Platinum Privilege card
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 10:37:44 AM User: hi
+Thursday, October 5th, 2017, 10:37:47 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 10:37:54 AM User: Non Employee
+Thursday, October 5th, 2017, 10:37:54 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 10:37:57 AM User: Customer
+Thursday, October 5th, 2017, 10:37:58 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 10:38:01 AM User: Credit Card
+Thursday, October 5th, 2017, 10:38:02 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 10:38:31 AM User: What are the types of credit cards available?
+Thursday, October 5th, 2017, 10:38:33 AM CloBot: Sorry Kishan, I could not understand
+Thursday, October 5th, 2017, 10:39:11 AM User: Restart
+Thursday, October 5th, 2017, 10:39:12 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 10:39:14 AM User: Non Employee
+Thursday, October 5th, 2017, 10:39:15 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 10:39:16 AM User: Customer
+Thursday, October 5th, 2017, 10:39:17 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 10:39:22 AM User: Credit Card
+Thursday, October 5th, 2017, 10:39:23 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 10:39:37 AM User: types of credit card
+Thursday, October 5th, 2017, 10:39:38 AM CloBot: * India card
+* India Gold Card
+* International Card
+* International Gold card
+* Platinum Privilege card
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 10:44:28 AM User: what are the types of credit cards available
+Thursday, October 5th, 2017, 10:44:28 AM CloBot: Sorry Kishan, I could not understand
+Thursday, October 5th, 2017, 10:44:36 AM User: Restart
+Thursday, October 5th, 2017, 10:45:18 AM User: hi
+Thursday, October 5th, 2017, 10:45:20 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 10:45:23 AM User: Non Employee
+Thursday, October 5th, 2017, 10:45:25 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 10:45:27 AM User: Customer
+Thursday, October 5th, 2017, 10:45:28 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 10:45:33 AM User: Credit Card
+Thursday, October 5th, 2017, 10:45:34 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 10:46:07 AM User: what are the types of credit cards available
+Thursday, October 5th, 2017, 10:46:08 AM CloBot: Sorry Kishan, I could not understand
+Thursday, October 5th, 2017, 10:46:15 AM User: Restart
+Thursday, October 5th, 2017, 10:46:16 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 10:46:18 AM User: Non Employee
+Thursday, October 5th, 2017, 10:46:19 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 10:46:22 AM User: Customer
+Thursday, October 5th, 2017, 10:46:22 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 10:46:24 AM User: Credit Card
+Thursday, October 5th, 2017, 10:46:25 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 10:47:35 AM User: how many types of credit cards
+Thursday, October 5th, 2017, 10:47:36 AM CloBot: Sorry Kishan, I could not understand
+Thursday, October 5th, 2017, 10:47:41 AM User: Restart
+Thursday, October 5th, 2017, 10:47:42 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 10:47:49 AM User: Non Employee
+Thursday, October 5th, 2017, 10:47:50 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 10:47:52 AM User: Customer
+Thursday, October 5th, 2017, 10:47:52 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 10:47:56 AM User: Credit Card
+Thursday, October 5th, 2017, 10:47:59 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 10:48:19 AM User: types of credit cards ther
+Thursday, October 5th, 2017, 10:48:20 AM CloBot: * India card
+* India Gold Card
+* International Card
+* International Gold card
+* Platinum Privilege card
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 10:58:18 AM User: restart
+Thursday, October 5th, 2017, 10:58:21 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 10:59:55 AM User: Non Employee
+Thursday, October 5th, 2017, 10:59:56 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 11:07:18 AM User: hello
+Thursday, October 5th, 2017, 11:07:21 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:10:29 AM User: Non Employee
+Thursday, October 5th, 2017, 11:10:31 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 11:10:36 AM User: Customer
+Thursday, October 5th, 2017, 11:10:38 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:10:41 AM User: Credit Card
+Thursday, October 5th, 2017, 11:10:46 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 11:11:09 AM User: I want to apply for credit card
+Thursday, October 5th, 2017, 11:11:11 AM CloBot: Hey Kishan, Submit a duly completed and signed application form to the Branch and make sure your KYC documents are verified.  
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 11:11:53 AM User: can minors get credit card
+Thursday, October 5th, 2017, 11:11:53 AM CloBot: Minors are not eligible for Credit Cards. 
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 11:12:31 AM User: eligibility for credit card
+Thursday, October 5th, 2017, 11:12:32 AM CloBot: Hey Kishan, You will be eligible if you are/ you have: 
+ * Of Indian origin/ non-resident Indian/ foreign citizen residing in India for employment  
+ * An acceptable CIBIL score 
+ * A steady income verified from Income tax returns/ salary certificates  
+ * Completed your KYC formalities 
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 11:17:41 AM User: RESTART
+Thursday, October 5th, 2017, 11:17:43 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:17:46 AM User: Non Employee
+Thursday, October 5th, 2017, 11:17:47 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 11:17:52 AM User: Customer
+Thursday, October 5th, 2017, 11:17:53 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:17:55 AM User: Credit Card
+Thursday, October 5th, 2017, 11:17:56 AM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 11:18:03 AM User: application
+Thursday, October 5th, 2017, 11:18:04 AM CloBot: Hey Kishan, Submit a duly completed and signed application form to the Branch and make sure your KYC documents are verified.  
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 11:18:19 AM User: restart
+Thursday, October 5th, 2017, 11:18:21 AM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:18:25 AM User: Employee
+Thursday, October 5th, 2017, 11:18:26 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Thursday, October 5th, 2017, 11:18:30 AM User: Finance
+Thursday, October 5th, 2017, 11:18:31 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:18:36 AM User: application
+Thursday, October 5th, 2017, 11:18:40 AM CloBot: Sorry Kishan I do not have an answer to this question yet. We will get back to you shortly
+Thursday, October 5th, 2017, 11:18:41 AM CloBot: Would you like to know anything else Kishan? (Yes/No)
+Thursday, October 5th, 2017, 12:23:18 PM User: Yes
+Thursday, October 5th, 2017, 12:23:21 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 12:23:23 PM User: Non Employee
+Thursday, October 5th, 2017, 12:23:24 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 12:23:27 PM User: Customer
+Thursday, October 5th, 2017, 12:23:28 PM CloBot: What is your query?
+Thursday, October 5th, 2017, 12:23:32 PM User: Credit Card
+Thursday, October 5th, 2017, 12:23:33 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 12:23:54 PM User: corporate card
+Thursday, October 5th, 2017, 12:23:55 PM CloBot:  A corporate credit card is a credit card issued at the request of a Company/ Firm to their promoters/employees. It will not be in the name of the company. Name of the individual to whom the company wants the card to be issued, will be embossed on the card. Card usages will be debited to Company’s account.
+
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 12:38:09 PM User: hi
+Thursday, October 5th, 2017, 12:38:15 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 2:28:33 PM User: hi
+Thursday, October 5th, 2017, 2:28:34 PM User: hi
+Thursday, October 5th, 2017, 2:28:35 PM User: hi
+Thursday, October 5th, 2017, 2:28:35 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 2:28:35 PM User: hi
+Thursday, October 5th, 2017, 2:28:36 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 2:28:37 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 2:28:37 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 2:28:39 PM User: Non Employee
+Thursday, October 5th, 2017, 2:28:40 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 2:28:42 PM User: Customer
+Thursday, October 5th, 2017, 2:28:43 PM CloBot: What is your query?
+Thursday, October 5th, 2017, 2:28:46 PM User: Credit Card
+Thursday, October 5th, 2017, 2:28:47 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 2:29:05 PM User: addon cards
+Thursday, October 5th, 2017, 2:58:12 PM User: hi
+Thursday, October 5th, 2017, 2:58:17 PM CloBot: Hello, Kishan I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 2:58:25 PM User: Non Employee
+Thursday, October 5th, 2017, 2:58:27 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 2:58:33 PM User: Customer
+Thursday, October 5th, 2017, 2:58:34 PM CloBot: What is your query?
+Thursday, October 5th, 2017, 2:58:52 PM User: Credit Card
+Thursday, October 5th, 2017, 2:58:54 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 2:59:10 PM User: bill cycle
+Thursday, October 5th, 2017, 2:59:11 PM CloBot: For India Card, the billing cycle is from 16th of the current month to 15th of next month and bill will be generated on 16th. 
+
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 2:59:23 PM User: addon cards
+Thursday, October 5th, 2017, 2:59:25 PM CloBot: We issue up to 2 Add-on cards to a principal card.
+
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 2:59:51 PM User: procedure corporate card
+Thursday, October 5th, 2017, 2:59:54 PM CloBot: To get the detailed procedure, please write to us as enquiry@bankofindia.co.in
+
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 3:00:08 PM User: corporate card
+Thursday, October 5th, 2017, 3:00:10 PM CloBot:  A corporate credit card is a credit card issued at the request of a Company/ Firm to their promoters/employees. It will not be in the name of the company. Name of the individual to whom the company wants the card to be issued, will be embossed on the card. Card usages will be debited to Company’s account.
+
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 3:00:26 PM User: billing options
+Thursday, October 5th, 2017, 3:00:28 PM CloBot: Two types of Billing are available –  
+ * Branch Billing cards wherein the bill amount for the usages are debited to the charge account on the due date of bill by the Bank.  
+ * Direct Billing card wherein the card holder is permitted to make payment of the bill for his card usages on his own on or before the due date. 
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 3:00:43 PM User: various card types
+Thursday, October 5th, 2017, 3:00:46 PM CloBot: Hey Kishan, Please type your question related to credit card..
+Thursday, October 5th, 2017, 3:01:27 PM User: various types of credit cards
+Thursday, October 5th, 2017, 3:01:29 PM CloBot: * India card
+* India Gold Card
+* International Card
+* International Gold card
+* Platinum Privilege card
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 3:01:54 PM User: minor are eligible for credit cards
+Thursday, October 5th, 2017, 3:01:55 PM CloBot: Hey Kishan, You will be eligible if you are/ you have: 
+ * Of Indian origin/ non-resident Indian/ foreign citizen residing in India for employment  
+ * An acceptable CIBIL score 
+ * A steady income verified from Income tax returns/ salary certificates  
+ * Completed your KYC formalities 
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 3:02:29 PM User: ARE MINORS ELIGIBLE FOR CREDIT CARDS
+Thursday, October 5th, 2017, 3:02:30 PM CloBot: Minors are not eligible for Credit Cards. 
+ If you have further queries related to credit card, Please type your question
+Tuesday, October 10th, 2017, 10:13:50 AM User: hi
+Tuesday, October 10th, 2017, 10:13:58 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 10:14:12 AM User: Yes
+Tuesday, October 10th, 2017, 10:14:15 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:26:00 AM User: hi
+Tuesday, October 10th, 2017, 11:26:03 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:26:08 AM User: Yes
+Tuesday, October 10th, 2017, 11:26:09 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:26:15 AM User: Kishan
+Tuesday, October 10th, 2017, 11:26:17 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:26:28 AM User: Yes
+Tuesday, October 10th, 2017, 11:26:29 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:28:27 AM User: hi
+Tuesday, October 10th, 2017, 11:28:30 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:28:33 AM User: Yes
+Tuesday, October 10th, 2017, 11:28:34 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:28:39 AM User: Kishan
+Tuesday, October 10th, 2017, 11:28:42 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:31:54 AM User: hi
+Tuesday, October 10th, 2017, 11:31:57 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:31:59 AM User: Yes
+Tuesday, October 10th, 2017, 11:32:01 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:32:05 AM User: Kishan
+Tuesday, October 10th, 2017, 11:32:07 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:33:03 AM User: Get started
+Tuesday, October 10th, 2017, 11:33:06 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:33:15 AM User: Yes
+Tuesday, October 10th, 2017, 11:33:16 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:33:22 AM User: Kishan
+Tuesday, October 10th, 2017, 11:33:25 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:51:37 AM User: hi
+Tuesday, October 10th, 2017, 11:51:41 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:51:44 AM User: Yes
+Tuesday, October 10th, 2017, 11:51:45 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:51:50 AM User: kishan
+Tuesday, October 10th, 2017, 11:51:53 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:54:58 AM User: hi
+Tuesday, October 10th, 2017, 11:54:58 AM User: undefined
+Tuesday, October 10th, 2017, 11:55:00 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:55:03 AM User: null
+Tuesday, October 10th, 2017, 11:55:03 AM User: Yes
+Tuesday, October 10th, 2017, 11:55:05 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:55:12 AM User: Kishan
+Tuesday, October 10th, 2017, 11:55:12 AM User: welcome
+Tuesday, October 10th, 2017, 11:55:15 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:59:42 AM User: hi
+Tuesday, October 10th, 2017, 11:59:42 AM User: undefined
+Tuesday, October 10th, 2017, 11:59:45 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 11:59:47 AM User: Yes
+Tuesday, October 10th, 2017, 11:59:47 AM User: welcome
+Tuesday, October 10th, 2017, 11:59:49 AM CloBot: First Name :
+Tuesday, October 10th, 2017, 11:59:53 AM User: Kishan
+Tuesday, October 10th, 2017, 11:59:53 AM User: confirm
+Tuesday, October 10th, 2017, 11:59:56 AM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:04:11 PM User: undefined
+Tuesday, October 10th, 2017, 12:04:11 PM User: Yes
+Tuesday, October 10th, 2017, 12:04:14 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:04:19 PM User: Yes
+Tuesday, October 10th, 2017, 12:04:19 PM User: welcome
+Tuesday, October 10th, 2017, 12:04:21 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 12:04:27 PM User: Kishan
+Tuesday, October 10th, 2017, 12:04:27 PM User: confirm
+Tuesday, October 10th, 2017, 12:04:30 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:05:10 PM User: hi
+Tuesday, October 10th, 2017, 12:05:10 PM User: undefined
+Tuesday, October 10th, 2017, 12:05:12 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:05:15 PM User: welcome
+Tuesday, October 10th, 2017, 12:05:16 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 12:05:24 PM User: confirm
+Tuesday, October 10th, 2017, 12:05:15 PM User: Yes
+Tuesday, October 10th, 2017, 12:05:24 PM User: Kishan
+Tuesday, October 10th, 2017, 12:05:30 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:10:42 PM User: undefined
+Tuesday, October 10th, 2017, 12:10:42 PM User: hi
+Tuesday, October 10th, 2017, 12:10:45 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:10:48 PM User: Yes
+Tuesday, October 10th, 2017, 12:10:48 PM User: welcome
+Tuesday, October 10th, 2017, 12:10:49 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 12:10:53 PM User: Kishan
+Tuesday, October 10th, 2017, 12:10:53 PM User: confirm
+Tuesday, October 10th, 2017, 12:10:55 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 12:11:05 PM User: Shetty
+Tuesday, October 10th, 2017, 12:11:05 PM User: first name
+Tuesday, October 10th, 2017, 12:11:07 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 12:11:14 PM User: Male
+Tuesday, October 10th, 2017, 12:11:14 PM User: last name
+Tuesday, October 10th, 2017, 12:11:18 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 12:11:24 PM User: 7506263091
+Tuesday, October 10th, 2017, 12:11:24 PM User: gender
+Tuesday, October 10th, 2017, 12:11:25 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 12:11:38 PM User: kishanmaxx@gmail
+Tuesday, October 10th, 2017, 12:11:38 PM User: mobile no
+Tuesday, October 10th, 2017, 12:11:39 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 12:16:42 PM User: hello
+Tuesday, October 10th, 2017, 12:16:42 PM User: undefined
+Tuesday, October 10th, 2017, 12:16:45 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:16:48 PM User: welcome
+Tuesday, October 10th, 2017, 12:16:48 PM User: Yes
+Tuesday, October 10th, 2017, 12:16:49 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 12:16:54 PM User: Kishan
+Tuesday, October 10th, 2017, 12:16:54 PM User: confirm
+Tuesday, October 10th, 2017, 12:16:56 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 12:17:01 PM User: Shetty
+Tuesday, October 10th, 2017, 12:17:01 PM User: first name
+Tuesday, October 10th, 2017, 12:17:03 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 12:17:07 PM User: male
+Tuesday, October 10th, 2017, 12:17:07 PM User: last name
+Tuesday, October 10th, 2017, 12:17:08 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 12:17:39 PM User: 7506263091
+Tuesday, October 10th, 2017, 12:17:39 PM User: gender
+Tuesday, October 10th, 2017, 12:17:40 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 12:17:57 PM User: kisdhdj@hiash.com
+Tuesday, October 10th, 2017, 12:17:57 PM User: mobile no
+Tuesday, October 10th, 2017, 12:17:58 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 12:58:03 PM User: hi
+Tuesday, October 10th, 2017, 12:58:03 PM User: undefined
+Tuesday, October 10th, 2017, 12:58:05 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 12:58:10 PM User: Yes
+Tuesday, October 10th, 2017, 12:58:10 PM User: welcome
+Tuesday, October 10th, 2017, 12:58:12 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 12:58:20 PM User: confirm
+Tuesday, October 10th, 2017, 12:58:20 PM User: Kishan
+Tuesday, October 10th, 2017, 12:58:22 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 12:58:30 PM User: shetty
+Tuesday, October 10th, 2017, 12:58:30 PM User: first name
+Tuesday, October 10th, 2017, 12:58:31 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 12:58:37 PM User: male
+Tuesday, October 10th, 2017, 12:58:37 PM User: last name
+Tuesday, October 10th, 2017, 12:58:38 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 12:58:46 PM User: 5665877676
+Tuesday, October 10th, 2017, 12:58:46 PM User: gender
+Tuesday, October 10th, 2017, 12:58:47 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 12:58:52 PM User: vhvhvhvhv
+Tuesday, October 10th, 2017, 12:58:52 PM User: mobile no
+Tuesday, October 10th, 2017, 12:58:53 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 12:58:59 PM User: 546546
+Tuesday, October 10th, 2017, 12:58:59 PM User: personal email
+Tuesday, October 10th, 2017, 12:59:01 PM CloBot: OTP is sent and user is verified!
+Tuesday, October 10th, 2017, 2:36:13 PM User: hi
+Tuesday, October 10th, 2017, 2:36:13 PM User: undefined
+Tuesday, October 10th, 2017, 2:36:18 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 2:36:25 PM User: Yes
+Tuesday, October 10th, 2017, 2:36:25 PM User: welcome
+Tuesday, October 10th, 2017, 2:36:28 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 2:36:34 PM User: hgfghgfh
+Tuesday, October 10th, 2017, 2:36:34 PM User: confirm
+Tuesday, October 10th, 2017, 2:36:36 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 2:36:38 PM User: fhghgfhgfgh
+Tuesday, October 10th, 2017, 2:36:38 PM User: first name
+Tuesday, October 10th, 2017, 2:36:39 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 2:36:43 PM User: gfhdgh
+Tuesday, October 10th, 2017, 2:36:43 PM User: last name
+Tuesday, October 10th, 2017, 2:36:45 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 2:36:50 PM User: 5433545434
+Tuesday, October 10th, 2017, 2:36:50 PM User: gender
+Tuesday, October 10th, 2017, 2:36:52 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 2:37:00 PM User: fgdgra32dg
+Tuesday, October 10th, 2017, 2:37:00 PM User: mobile no
+Tuesday, October 10th, 2017, 2:37:02 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 2:37:06 PM User: 44345
+Tuesday, October 10th, 2017, 2:37:06 PM User: personal email
+Tuesday, October 10th, 2017, 2:37:08 PM CloBot: OTP is sent and user is verified! 
+ Superb! We would love to know more about you! 
+ Date of Birth: 
+Tuesday, October 10th, 2017, 2:37:20 PM User: 43434543rt
+Tuesday, October 10th, 2017, 2:37:20 PM User: OTP verify
+Tuesday, October 10th, 2017, 2:37:21 PM CloBot: Highest Level of Education :
+Tuesday, October 10th, 2017, 2:37:27 PM User: ertertert
+Tuesday, October 10th, 2017, 2:37:27 PM User: date of birth
+Tuesday, October 10th, 2017, 2:37:28 PM CloBot: Marital Status:
+Tuesday, October 10th, 2017, 2:37:37 PM User: rtrt
+Tuesday, October 10th, 2017, 2:37:37 PM User: highest qualification
+Tuesday, October 10th, 2017, 2:51:46 PM User: sdsdsd
+Tuesday, October 10th, 2017, 2:51:46 PM User: undefined
+Tuesday, October 10th, 2017, 2:51:51 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 2:51:54 PM User: Yes
+Tuesday, October 10th, 2017, 2:51:54 PM User: welcome
+Tuesday, October 10th, 2017, 2:51:56 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 2:52:02 PM User: kishan
+Tuesday, October 10th, 2017, 2:52:02 PM User: confirm
+Tuesday, October 10th, 2017, 2:52:08 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 2:52:13 PM User: shetty
+Tuesday, October 10th, 2017, 2:52:13 PM User: first name
+Tuesday, October 10th, 2017, 2:52:17 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 2:52:20 PM User: last name
+Tuesday, October 10th, 2017, 2:52:20 PM User: male
+Tuesday, October 10th, 2017, 2:52:22 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 2:52:29 PM User: 4446548419
+Tuesday, October 10th, 2017, 2:52:29 PM User: gender
+Tuesday, October 10th, 2017, 2:52:31 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 2:52:38 PM User: ajshash@sdguj.com
+Tuesday, October 10th, 2017, 2:52:38 PM User: mobile no
+Tuesday, October 10th, 2017, 2:52:41 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 2:52:47 PM User: 15151
+Tuesday, October 10th, 2017, 2:52:47 PM User: personal email
+Tuesday, October 10th, 2017, 2:52:49 PM CloBot: OTP is sent and user is verified! 
+ Superb! We would love to know more about you! 
+ Date of Birth: 
+Tuesday, October 10th, 2017, 2:53:34 PM User: asas232
+Tuesday, October 10th, 2017, 2:53:34 PM User: OTP verify
+Tuesday, October 10th, 2017, 2:53:37 PM CloBot: Highest Level of Education :
+Tuesday, October 10th, 2017, 2:53:44 PM User: sdsdsd
+Tuesday, October 10th, 2017, 2:53:44 PM User: date of birth
+Tuesday, October 10th, 2017, 2:53:47 PM CloBot: Marital Status:
+Tuesday, October 10th, 2017, 2:58:19 PM User: highest qualification
+Tuesday, October 10th, 2017, 2:58:19 PM User: yhdfgskjd
+Tuesday, October 10th, 2017, 2:58:21 PM CloBot: If married, is spouse working?:
+Tuesday, October 10th, 2017, 2:58:26 PM User: dfsfdsd
+Tuesday, October 10th, 2017, 2:58:26 PM User: martial status
+Tuesday, October 10th, 2017, 2:58:29 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 2:58:32 PM User: spouse job
+Tuesday, October 10th, 2017, 2:58:32 PM User: dsfsd
+Tuesday, October 10th, 2017, 2:58:34 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 3:19:46 PM User: hi
+Tuesday, October 10th, 2017, 3:19:46 PM User: undefined
+Tuesday, October 10th, 2017, 3:19:49 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 3:19:52 PM User: Yes
+Tuesday, October 10th, 2017, 3:19:52 PM User: welcome
+Tuesday, October 10th, 2017, 3:19:54 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 3:19:59 PM User: gsfdg
+Tuesday, October 10th, 2017, 3:19:59 PM User: confirm
+Tuesday, October 10th, 2017, 3:20:00 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 3:20:04 PM User: fdsgdfsg
+Tuesday, October 10th, 2017, 3:20:04 PM User: first name
+Tuesday, October 10th, 2017, 3:20:06 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 3:20:10 PM User: fdgffd
+Tuesday, October 10th, 2017, 3:20:10 PM User: last name
+Tuesday, October 10th, 2017, 3:20:12 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 3:20:15 PM User: daffdfdg
+Tuesday, October 10th, 2017, 3:20:15 PM User: gender
+Tuesday, October 10th, 2017, 3:20:16 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 3:20:19 PM User: fdaafdf
+Tuesday, October 10th, 2017, 3:20:19 PM User: mobile no
+Tuesday, October 10th, 2017, 3:20:21 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 3:20:25 PM User: fagfgf
+Tuesday, October 10th, 2017, 3:20:25 PM User: personal email
+Tuesday, October 10th, 2017, 3:20:26 PM CloBot: OTP is sent and user is verified! 
+ Superb! We would love to know more about you! 
+ 
+ Date of Birth: 
+Tuesday, October 10th, 2017, 3:20:30 PM User: adfggf
+Tuesday, October 10th, 2017, 3:20:30 PM User: OTP verify
+Tuesday, October 10th, 2017, 3:20:32 PM CloBot: Highest Level of Education :
+Tuesday, October 10th, 2017, 3:20:39 PM User: fdafd
+Tuesday, October 10th, 2017, 3:20:39 PM User: date of birth
+Tuesday, October 10th, 2017, 3:20:41 PM CloBot: Marital Status:
+Tuesday, October 10th, 2017, 3:20:43 PM User: highest qualification
+Tuesday, October 10th, 2017, 3:20:43 PM User: dfsgds
+Tuesday, October 10th, 2017, 3:20:44 PM CloBot: If married, is spouse working?:
+Tuesday, October 10th, 2017, 3:20:48 PM User: sdfgsd
+Tuesday, October 10th, 2017, 3:20:48 PM User: martial status
+Tuesday, October 10th, 2017, 3:20:50 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 3:20:53 PM User: dsfgsd
+Tuesday, October 10th, 2017, 3:20:53 PM User: spouse job
+Tuesday, October 10th, 2017, 3:20:54 PM CloBot: Residential Address :
+Tuesday, October 10th, 2017, 3:20:58 PM User: sdffdg
+Tuesday, October 10th, 2017, 3:20:58 PM User: type of residence
+Tuesday, October 10th, 2017, 3:21:43 PM User: hi
+Tuesday, October 10th, 2017, 3:21:43 PM User: residential address
+Tuesday, October 10th, 2017, 3:21:48 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 3:22:24 PM User: hi
+Tuesday, October 10th, 2017, 3:22:24 PM User: undefined
+Tuesday, October 10th, 2017, 3:22:27 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 3:22:30 PM User: Yes
+Tuesday, October 10th, 2017, 3:22:30 PM User: welcome
+Tuesday, October 10th, 2017, 3:22:32 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 3:22:35 PM User: dgfds
+Tuesday, October 10th, 2017, 3:22:35 PM User: confirm
+Tuesday, October 10th, 2017, 3:22:36 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 3:22:39 PM User: iuhdasdsaj
+Tuesday, October 10th, 2017, 3:22:39 PM User: first name
+Tuesday, October 10th, 2017, 3:22:41 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 3:23:34 PM User: uisdagkjasdk
+Tuesday, October 10th, 2017, 3:23:34 PM User: last name
+Tuesday, October 10th, 2017, 3:23:45 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 3:23:59 PM User: yhgsdkjagsdkj
+Tuesday, October 10th, 2017, 3:23:59 PM User: gender
+Tuesday, October 10th, 2017, 3:24:01 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 3:25:40 PM User: gyhegkdas
+Tuesday, October 10th, 2017, 3:25:40 PM User: mobile no
+Tuesday, October 10th, 2017, 3:25:41 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 3:25:45 PM User: jasgdjksda
+Tuesday, October 10th, 2017, 3:25:45 PM User: personal email
+Tuesday, October 10th, 2017, 3:25:47 PM CloBot: OTP is sent and user is verified! 
+ Superb! We would love to know more about you! 
+ 
+ Date of Birth: 
+Tuesday, October 10th, 2017, 3:25:50 PM User: ksl;djoas
+Tuesday, October 10th, 2017, 3:25:50 PM User: OTP verify
+Tuesday, October 10th, 2017, 3:25:51 PM CloBot: Highest Level of Education :
+Tuesday, October 10th, 2017, 3:25:56 PM User: kasd';aks
+Tuesday, October 10th, 2017, 3:25:56 PM User: date of birth
+Tuesday, October 10th, 2017, 3:25:57 PM CloBot: Marital Status:
+Tuesday, October 10th, 2017, 3:26:02 PM User: highest qualification
+Tuesday, October 10th, 2017, 3:26:02 PM User: hkshadkhas
+Tuesday, October 10th, 2017, 3:26:04 PM CloBot: If married, is spouse working?:
+Tuesday, October 10th, 2017, 3:26:07 PM User: khksda
+Tuesday, October 10th, 2017, 3:26:07 PM User: martial status
+Tuesday, October 10th, 2017, 3:26:09 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 3:26:13 PM User: hgsakdhg
+Tuesday, October 10th, 2017, 3:26:13 PM User: spouse job
+Tuesday, October 10th, 2017, 3:26:14 PM CloBot: Residential Address :
+Tuesday, October 10th, 2017, 3:26:18 PM User: hsagdk
+Tuesday, October 10th, 2017, 3:26:18 PM User: type of residence
+Tuesday, October 10th, 2017, 3:26:20 PM CloBot: How many family members stay with you? :
+Tuesday, October 10th, 2017, 3:26:23 PM User: jasdjl
+Tuesday, October 10th, 2017, 3:26:23 PM User: residential address
+Tuesday, October 10th, 2017, 3:26:25 PM CloBot: How many family members are dependent? (non-earning members) :
+Tuesday, October 10th, 2017, 3:26:27 PM User: hgasdkj
+Tuesday, October 10th, 2017, 3:26:27 PM User: family members
+Tuesday, October 10th, 2017, 3:26:28 PM CloBot: That's awesome. Introduce us to the professional in you! 
+ Emlpoyment Type: 
+Tuesday, October 10th, 2017, 3:26:39 PM User: ugk
+Tuesday, October 10th, 2017, 3:26:39 PM User: dependent members
+Tuesday, October 10th, 2017, 3:26:41 PM CloBot: That's awesome. Introduce us to the professional in you! 
+ Emlpoyment Type: 
+Tuesday, October 10th, 2017, 5:49:04 PM User: hi
+Tuesday, October 10th, 2017, 5:49:04 PM User: undefined
+Tuesday, October 10th, 2017, 5:49:05 PM User: hi
+Tuesday, October 10th, 2017, 5:49:05 PM User: welcome
+Tuesday, October 10th, 2017, 5:49:07 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 5:49:07 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 5:49:59 PM User: welcome
+Tuesday, October 10th, 2017, 5:49:59 PM User: Yes
+Tuesday, October 10th, 2017, 5:50:01 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 5:50:06 PM User: jdfhkj
+Tuesday, October 10th, 2017, 5:50:06 PM User: confirm
+Tuesday, October 10th, 2017, 5:50:08 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 5:50:13 PM User: kdslfhk
+Tuesday, October 10th, 2017, 5:50:13 PM User: first name
+Tuesday, October 10th, 2017, 5:50:14 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 5:50:18 PM User: kdfshl
+Tuesday, October 10th, 2017, 5:50:18 PM User: last name
+Tuesday, October 10th, 2017, 5:50:19 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 5:50:24 PM User: fuehsdjk
+Tuesday, October 10th, 2017, 5:50:24 PM User: gender
+Tuesday, October 10th, 2017, 5:50:26 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 5:50:39 PM User: ugefkjdsg
+Tuesday, October 10th, 2017, 5:50:39 PM User: mobile no
+Tuesday, October 10th, 2017, 5:50:40 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 5:50:47 PM User: 6767iyoi
+Tuesday, October 10th, 2017, 5:50:47 PM User: personal email
+Tuesday, October 10th, 2017, 5:50:48 PM CloBot: OTP is sent and user is verified! 
+ Superb! We would love to know more about you! 
+ 
+ Date of Birth: 
+Tuesday, October 10th, 2017, 5:51:19 PM User: yufryfkkp
+Tuesday, October 10th, 2017, 5:51:19 PM User: OTP verify
+Tuesday, October 10th, 2017, 5:51:20 PM CloBot: Highest Level of Education :
+Tuesday, October 10th, 2017, 5:52:09 PM User: uiguok
+Tuesday, October 10th, 2017, 5:52:09 PM User: date of birth
+Tuesday, October 10th, 2017, 5:52:12 PM CloBot: Marital Status:
+Tuesday, October 10th, 2017, 5:52:15 PM User: yhgih
+Tuesday, October 10th, 2017, 5:52:15 PM User: highest qualification
+Tuesday, October 10th, 2017, 5:52:17 PM CloBot: If married, is spouse working?:
+Tuesday, October 10th, 2017, 5:52:20 PM User: hjblnl
+Tuesday, October 10th, 2017, 5:52:20 PM User: martial status
+Tuesday, October 10th, 2017, 5:52:23 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 5:52:45 PM User: hkhkl
+Tuesday, October 10th, 2017, 5:52:45 PM User: spouse job
+Tuesday, October 10th, 2017, 5:52:48 PM CloBot: Residential Address :
+Tuesday, October 10th, 2017, 5:53:06 PM User: ujihkhk
+Tuesday, October 10th, 2017, 5:53:06 PM User: type of residence
+Tuesday, October 10th, 2017, 5:53:07 PM CloBot: How many family members stay with you? :
+Tuesday, October 10th, 2017, 5:53:11 PM User: ihklkl
+Tuesday, October 10th, 2017, 5:53:11 PM User: residential address
+Tuesday, October 10th, 2017, 5:53:13 PM CloBot: How many family members are dependent? (non-earning members) :
+Tuesday, October 10th, 2017, 5:53:18 PM User: hkhlkjlb
+Tuesday, October 10th, 2017, 5:53:18 PM User: family members
+Tuesday, October 10th, 2017, 5:53:20 PM CloBot: That's awesome. Introduce us to the professional in you! 
+ Emlpoyment Type: 
+Tuesday, October 10th, 2017, 5:53:35 PM User: dependent members
+Tuesday, October 10th, 2017, 5:53:35 PM User: jhljkhlkh
+Tuesday, October 10th, 2017, 5:53:36 PM User: juhlkkh
+Tuesday, October 10th, 2017, 5:53:36 PM User: employment type
+Tuesday, October 10th, 2017, 5:53:36 PM CloBot: If Other, please specify: 
+Tuesday, October 10th, 2017, 5:53:37 PM CloBot: Employer's Name : 
+Tuesday, October 10th, 2017, 5:53:41 PM User: jklkkj
+Tuesday, October 10th, 2017, 5:53:41 PM User: other type
+Tuesday, October 10th, 2017, 5:53:42 PM CloBot: Number of years with current employer: 
+Tuesday, October 10th, 2017, 5:53:45 PM User: uug
+Tuesday, October 10th, 2017, 5:53:45 PM User: employer name
+Tuesday, October 10th, 2017, 5:53:47 PM CloBot: Total Work Experience : 
+Tuesday, October 10th, 2017, 5:53:50 PM User: gkjgkj
+Tuesday, October 10th, 2017, 5:53:50 PM User: no of empyear
+Tuesday, October 10th, 2017, 5:53:51 PM CloBot: Monthly Salary : 
+Tuesday, October 10th, 2017, 5:53:55 PM User: hjkhjh
+Tuesday, October 10th, 2017, 5:53:55 PM User: total work exp
+Tuesday, October 10th, 2017, 5:53:57 PM CloBot: Official Email ID: (we will send a link to this email ID. Please click to authenticate)  : 
+Tuesday, October 10th, 2017, 5:54:04 PM User: gujgkljghj
+Tuesday, October 10th, 2017, 5:54:04 PM User: monthly salary
+Tuesday, October 10th, 2017, 5:54:05 PM CloBot: Great. Now that we know you well, let us know a bit about your loan requirement 
+
+ How much money do you need?
+Tuesday, October 10th, 2017, 5:54:09 PM User: khgjkggjkl
+Tuesday, October 10th, 2017, 5:54:09 PM User: official email id
+Tuesday, October 10th, 2017, 5:54:10 PM CloBot: What do you need it for?: 
+Tuesday, October 10th, 2017, 5:54:15 PM User: gukgjg
+Tuesday, October 10th, 2017, 5:54:15 PM User: money required
+Tuesday, October 10th, 2017, 5:54:16 PM CloBot: If others, please specify?: 
+Tuesday, October 10th, 2017, 5:54:19 PM User: hjhjklh
+Tuesday, October 10th, 2017, 5:54:19 PM User: money reasons
+Tuesday, October 10th, 2017, 5:54:22 PM CloBot: How long do you need it?: 
+Tuesday, October 10th, 2017, 5:54:26 PM User: hnlknh
+Tuesday, October 10th, 2017, 5:54:26 PM User: money other reasons
+Tuesday, October 10th, 2017, 5:54:28 PM CloBot: Do you have an existing loan?: 
+Tuesday, October 10th, 2017, 5:54:32 PM User: hgkhkj
+Tuesday, October 10th, 2017, 5:54:32 PM User: money timeline
+Tuesday, October 10th, 2017, 5:54:34 PM CloBot: What's your current EMI?: 
+Tuesday, October 10th, 2017, 5:54:48 PM User: jhjh
+Tuesday, October 10th, 2017, 5:54:48 PM User: existing loan
+Tuesday, October 10th, 2017, 5:54:50 PM CloBot: We are almost done! Please share your AADHAR number and PAN number 
+ AADHAR number: 
+Tuesday, October 10th, 2017, 5:54:55 PM User: hgkhgk
+Tuesday, October 10th, 2017, 5:54:55 PM User: existing emi
+Tuesday, October 10th, 2017, 5:54:56 PM CloBot: PAN number: 
+Tuesday, October 10th, 2017, 5:55:01 PM User: jhjjh
+Tuesday, October 10th, 2017, 5:55:01 PM User: aadhar no
+Tuesday, October 10th, 2017, 5:55:02 PM CloBot: Congratulation! Your loan request is accepted.
+Tuesday, October 10th, 2017, 7:16:46 PM User: hi
+Tuesday, October 10th, 2017, 7:16:46 PM User: undefined
+Tuesday, October 10th, 2017, 7:16:49 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 7:16:52 PM User: welcome
+Tuesday, October 10th, 2017, 7:16:52 PM User: Yes
+Tuesday, October 10th, 2017, 7:16:53 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 7:17:00 PM User: confirm
+Tuesday, October 10th, 2017, 7:17:00 PM User: Kishan
+Tuesday, October 10th, 2017, 7:17:02 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 7:17:08 PM User: first name
+Tuesday, October 10th, 2017, 7:17:08 PM User: Shetty
+Tuesday, October 10th, 2017, 7:17:10 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 7:18:27 PM User: hi
+Tuesday, October 10th, 2017, 7:18:27 PM User: undefined
+Tuesday, October 10th, 2017, 7:18:29 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, October 10th, 2017, 7:18:32 PM User: Yes
+Tuesday, October 10th, 2017, 7:18:32 PM User: welcome
+Tuesday, October 10th, 2017, 7:18:33 PM CloBot: First Name :
+Tuesday, October 10th, 2017, 7:18:36 PM User: dsadasd
+Tuesday, October 10th, 2017, 7:18:36 PM User: confirm
+Tuesday, October 10th, 2017, 7:18:37 PM CloBot: Last Name:
+Tuesday, October 10th, 2017, 7:18:42 PM User: sadasdsa
+Tuesday, October 10th, 2017, 7:18:42 PM User: first name
+Tuesday, October 10th, 2017, 7:18:43 PM CloBot: Gender:
+Tuesday, October 10th, 2017, 7:18:47 PM User: Male
+Tuesday, October 10th, 2017, 7:18:47 PM User: last name
+Tuesday, October 10th, 2017, 7:18:48 PM CloBot: Mobile no:
+Tuesday, October 10th, 2017, 7:18:55 PM User: 32132123312312
+Tuesday, October 10th, 2017, 7:18:55 PM User: gender
+Tuesday, October 10th, 2017, 7:18:56 PM CloBot: Personal Email Id:
+Tuesday, October 10th, 2017, 7:19:22 PM User: dsadas123231
+Tuesday, October 10th, 2017, 7:19:22 PM User: mobile no
+Tuesday, October 10th, 2017, 7:19:23 PM CloBot: Please Type the OTP:
+Tuesday, October 10th, 2017, 7:19:27 PM User: 321321
+Tuesday, October 10th, 2017, 7:19:27 PM User: personal email
+Tuesday, October 10th, 2017, 7:19:28 PM CloBot: OTP is sent and user is verified! 
+ Superb! We would love to know more about you! 
+ 
+ Date of Birth: 
+Tuesday, October 10th, 2017, 7:19:33 PM User: OTP verify
+Tuesday, October 10th, 2017, 7:19:33 PM User: 321321
+Tuesday, October 10th, 2017, 7:19:34 PM CloBot: Highest Level of Education :
+Tuesday, October 10th, 2017, 7:19:39 PM User: Other
+Tuesday, October 10th, 2017, 7:19:39 PM User: date of birth
+Tuesday, October 10th, 2017, 7:19:40 PM CloBot: Marital Status:
+Tuesday, October 10th, 2017, 7:19:43 PM User: Single
+Tuesday, October 10th, 2017, 7:19:43 PM User: highest qualification
+Tuesday, October 10th, 2017, 7:19:44 PM CloBot: If married, is spouse working?:
+Tuesday, October 10th, 2017, 7:19:48 PM User: martial status
+Tuesday, October 10th, 2017, 7:19:48 PM User: Yes
+Tuesday, October 10th, 2017, 7:19:50 PM CloBot: Residence Type :
+Tuesday, October 10th, 2017, 7:19:53 PM User: Self-owned
+Tuesday, October 10th, 2017, 7:19:53 PM User: spouse job
+Tuesday, October 10th, 2017, 7:19:54 PM CloBot: Residential Address :
+Tuesday, October 10th, 2017, 7:20:05 PM User: weewq123w 12ewq qew321ew c
+Tuesday, October 10th, 2017, 7:20:05 PM User: type of residence
+Tuesday, October 10th, 2017, 7:20:06 PM CloBot: How many family members stay with you? :
+Tuesday, October 10th, 2017, 7:20:10 PM User: Two
+Tuesday, October 10th, 2017, 7:20:10 PM User: residential address
+Tuesday, October 10th, 2017, 7:20:11 PM CloBot: How many family members are dependent? (non-earning members) :
+Tuesday, October 10th, 2017, 7:20:14 PM User: Three
+Tuesday, October 10th, 2017, 7:20:14 PM User: family members
+Tuesday, October 10th, 2017, 7:20:15 PM CloBot: That's awesome. Introduce us to the professional in you! 
+ Employment Type: 
+Tuesday, October 10th, 2017, 7:21:03 PM User: three
+Tuesday, October 10th, 2017, 7:21:03 PM User: dependent members
+Tuesday, October 10th, 2017, 7:21:06 PM CloBot: If Other, please specify: 
+Tuesday, October 10th, 2017, 7:21:17 PM User: employment type
+Tuesday, October 10th, 2017, 7:21:17 PM User: none
+Tuesday, October 10th, 2017, 7:21:18 PM CloBot: Employer's Name : 
+Tuesday, October 10th, 2017, 7:21:23 PM User: other type
+Tuesday, October 10th, 2017, 7:21:23 PM User: asasas
+Tuesday, October 10th, 2017, 7:21:25 PM CloBot: Number of years with current employer: 
+Tuesday, October 10th, 2017, 7:21:29 PM User: 2
+Tuesday, October 10th, 2017, 7:21:29 PM User: employer name
+Tuesday, October 10th, 2017, 7:21:31 PM CloBot: Total Work Experience : 
+Tuesday, October 10th, 2017, 7:21:35 PM User: 3
+Tuesday, October 10th, 2017, 7:21:35 PM User: no of empyear
+Tuesday, October 10th, 2017, 7:21:36 PM CloBot: Monthly Salary : 
+Tuesday, October 10th, 2017, 7:21:39 PM User: 21211212
+Tuesday, October 10th, 2017, 7:21:39 PM User: total work exp
+Tuesday, October 10th, 2017, 7:21:41 PM CloBot: Official Email ID: (we will send a link to this email ID. Please click to authenticate)  : 
+Tuesday, October 10th, 2017, 7:21:47 PM User: 12222
+Tuesday, October 10th, 2017, 7:21:47 PM User: monthly salary
+Tuesday, October 10th, 2017, 7:21:48 PM CloBot: Great. Now that we know you well, let us know a bit about your loan requirement 
+
+ How much money do you need?
+Tuesday, October 10th, 2017, 7:22:03 PM User: 199988
+Tuesday, October 10th, 2017, 7:22:03 PM User: official email id
+Tuesday, October 10th, 2017, 7:22:04 PM CloBot: What do you need it for?: 
+Tuesday, October 10th, 2017, 7:22:10 PM User: money required
+Tuesday, October 10th, 2017, 7:22:10 PM User: Home Improvement
+Tuesday, October 10th, 2017, 7:22:11 PM CloBot: If others, please specify?: 
+Tuesday, October 10th, 2017, 7:22:15 PM User: assasas
+Tuesday, October 10th, 2017, 7:22:15 PM User: money reasons
+Tuesday, October 10th, 2017, 7:22:16 PM CloBot: How long do you need it?: 
+Tuesday, October 10th, 2017, 7:22:23 PM User: 2 years
+Tuesday, October 10th, 2017, 7:22:23 PM User: money other reasons
+Tuesday, October 10th, 2017, 7:22:25 PM CloBot: Do you have an existing loan?: 
+Tuesday, October 10th, 2017, 7:22:30 PM User: no
+Tuesday, October 10th, 2017, 7:22:30 PM User: money timeline
+Tuesday, October 10th, 2017, 7:22:31 PM CloBot: What's your current EMI?: 
+Tuesday, October 10th, 2017, 7:22:37 PM User: existing loan
+Tuesday, October 10th, 2017, 7:22:37 PM User: no
+Tuesday, October 10th, 2017, 7:22:38 PM CloBot: We are almost done! Please share your AADHAR number and PAN number 
+ AADHAR number: 
+Tuesday, October 10th, 2017, 7:22:49 PM User: fhghgffgfhg
+Tuesday, October 10th, 2017, 7:22:49 PM User: existing emi
+Tuesday, October 10th, 2017, 7:22:50 PM CloBot: PAN number: 
+Tuesday, October 10th, 2017, 7:22:53 PM User: fghfghfhfg
+Tuesday, October 10th, 2017, 7:22:53 PM User: aadhar no
+Tuesday, October 10th, 2017, 7:22:55 PM CloBot: Congratulation! Your loan request is accepted.
+Wednesday, October 11th, 2017, 11:46:35 AM User: hi
+Wednesday, October 11th, 2017, 11:46:35 AM User: pan no
+Wednesday, October 11th, 2017, 11:46:40 AM CloBot: Residence Type :
+Wednesday, October 11th, 2017, 11:49:25 AM User: hi
+Wednesday, October 11th, 2017, 11:49:25 AM User: spouse job
+Wednesday, October 11th, 2017, 11:49:28 AM CloBot: Residential Address :
+Wednesday, October 11th, 2017, 11:49:39 AM User: restart
+Wednesday, October 11th, 2017, 11:49:39 AM User: type of residence
+Wednesday, October 11th, 2017, 11:49:40 AM CloBot: How many family members stay with you? :
+Wednesday, October 11th, 2017, 12:49:23 PM User: restrart
+Wednesday, October 11th, 2017, 12:49:23 PM User: undefined
+Wednesday, October 11th, 2017, 12:49:27 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 12:49:35 PM User: Yes
+Wednesday, October 11th, 2017, 12:49:35 PM User: welcome
+Wednesday, October 11th, 2017, 12:49:37 PM CloBot: First Name :
+Wednesday, October 11th, 2017, 12:49:41 PM User: uygiugu
+Wednesday, October 11th, 2017, 12:49:41 PM User: confirm
+Wednesday, October 11th, 2017, 12:49:42 PM CloBot: Last Name:
+Wednesday, October 11th, 2017, 12:49:48 PM User: yfjhfhgjkg
+Wednesday, October 11th, 2017, 12:49:48 PM User: first name
+Wednesday, October 11th, 2017, 12:49:49 PM CloBot: Gender:
+Wednesday, October 11th, 2017, 12:49:59 PM User: restart
+Wednesday, October 11th, 2017, 12:49:59 PM User: last name
+Wednesday, October 11th, 2017, 12:50:02 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 12:50:24 PM User: Yes
+Wednesday, October 11th, 2017, 12:50:24 PM User: welcome
+Wednesday, October 11th, 2017, 12:50:25 PM CloBot: First Name :
+Wednesday, October 11th, 2017, 12:50:29 PM User: gfdhg
+Wednesday, October 11th, 2017, 12:50:29 PM User: confirm
+Wednesday, October 11th, 2017, 12:50:32 PM CloBot: Last Name:
+Wednesday, October 11th, 2017, 12:50:34 PM User: fjhfhjfh
+Wednesday, October 11th, 2017, 12:50:34 PM User: first name
+Wednesday, October 11th, 2017, 12:50:36 PM CloBot: Gender:
+Wednesday, October 11th, 2017, 12:50:40 PM User: Male
+Wednesday, October 11th, 2017, 12:50:40 PM User: last name
+Wednesday, October 11th, 2017, 12:50:42 PM CloBot: Mobile no:
+Wednesday, October 11th, 2017, 12:50:47 PM User: 75785687689606
+Wednesday, October 11th, 2017, 12:50:47 PM User: gender
+Wednesday, October 11th, 2017, 12:50:49 PM CloBot: Personal Email Id:
+Wednesday, October 11th, 2017, 12:50:56 PM User: tgdghfhjgh
+Wednesday, October 11th, 2017, 12:50:56 PM User: mobile no
+Wednesday, October 11th, 2017, 12:50:58 PM CloBot: Please Type the OTP sent to your mobile no:
+Wednesday, October 11th, 2017, 12:54:51 PM User: 4994
+Wednesday, October 11th, 2017, 12:54:51 PM User: personal email
+Wednesday, October 11th, 2017, 12:54:52 PM User: 4994
+Wednesday, October 11th, 2017, 12:54:52 PM User: OTP verify
+Wednesday, October 11th, 2017, 12:54:53 PM User: 4994
+Wednesday, October 11th, 2017, 12:54:53 PM User: date of birth
+Wednesday, October 11th, 2017, 12:54:54 PM CloBot:  Superb! We have registered you in moneykit.
+We would love to know more about you! 
+ 
+ Date of Birth: ddmmyyyy 
+Wednesday, October 11th, 2017, 12:54:55 PM CloBot: Highest Level of Education :
+Wednesday, October 11th, 2017, 12:55:05 PM CloBot: Marital Status:
+Wednesday, October 11th, 2017, 12:55:13 PM User: Single
+Wednesday, October 11th, 2017, 12:55:13 PM User: highest qualification
+Wednesday, October 11th, 2017, 12:55:15 PM CloBot: If married, is spouse working?:
+Wednesday, October 11th, 2017, 12:55:22 PM User: restart
+Wednesday, October 11th, 2017, 12:55:22 PM User: martial status
+Wednesday, October 11th, 2017, 12:55:25 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 12:55:29 PM User: welcome
+Wednesday, October 11th, 2017, 12:55:29 PM User: Yes
+Wednesday, October 11th, 2017, 12:55:31 PM CloBot: First Name :
+Wednesday, October 11th, 2017, 12:55:36 PM User: yufyy
+Wednesday, October 11th, 2017, 12:55:36 PM User: confirm
+Wednesday, October 11th, 2017, 12:55:37 PM CloBot: Last Name:
+Wednesday, October 11th, 2017, 12:55:40 PM User: ggjhf
+Wednesday, October 11th, 2017, 12:55:40 PM User: first name
+Wednesday, October 11th, 2017, 12:55:42 PM CloBot: Gender:
+Wednesday, October 11th, 2017, 12:55:48 PM User: Male
+Wednesday, October 11th, 2017, 12:55:48 PM User: last name
+Wednesday, October 11th, 2017, 12:55:49 PM CloBot: Mobile no:
+Wednesday, October 11th, 2017, 12:55:57 PM User: 49416161961
+Wednesday, October 11th, 2017, 12:55:57 PM User: gender
+Wednesday, October 11th, 2017, 12:55:58 PM CloBot: Personal Email Id:
+Wednesday, October 11th, 2017, 12:58:55 PM User: jehfjsdfbglk
+Wednesday, October 11th, 2017, 12:58:55 PM User: mobile no
+Wednesday, October 11th, 2017, 12:58:56 PM CloBot: Please Type the OTP sent to your mobile no:
+Wednesday, October 11th, 2017, 12:59:04 PM User: 65462
+Wednesday, October 11th, 2017, 12:59:04 PM User: personal email
+Wednesday, October 11th, 2017, 12:59:05 PM CloBot:  Superb! We have registered you in moneykit.
+We would love to know more about you! 
+ 
+ Date of Birth: ddmmyyyy 
+Wednesday, October 11th, 2017, 12:59:15 PM User: 3164641
+Wednesday, October 11th, 2017, 12:59:15 PM User: OTP verify
+Wednesday, October 11th, 2017, 12:59:17 PM CloBot: Highest Level of Education :
+Wednesday, October 11th, 2017, 1:00:07 PM User: Graduate
+Wednesday, October 11th, 2017, 1:00:09 PM User: date of birth
+Wednesday, October 11th, 2017, 1:00:11 PM CloBot: Marital Status:
+Wednesday, October 11th, 2017, 1:00:22 PM User: Married
+Wednesday, October 11th, 2017, 1:00:22 PM User: highest qualification
+Wednesday, October 11th, 2017, 1:00:23 PM CloBot: If married, is spouse working?:
+Wednesday, October 11th, 2017, 1:00:27 PM User: Yes
+Wednesday, October 11th, 2017, 1:00:27 PM User: martial status
+Wednesday, October 11th, 2017, 1:00:29 PM CloBot: Residence Type :
+Wednesday, October 11th, 2017, 1:00:31 PM User: Rented
+Wednesday, October 11th, 2017, 1:00:31 PM User: spouse job
+Wednesday, October 11th, 2017, 1:00:33 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 1:03:00 PM User: welcome
+Wednesday, October 11th, 2017, 1:03:00 PM User: Yes
+Wednesday, October 11th, 2017, 1:03:02 PM CloBot: First Name :
+Wednesday, October 11th, 2017, 1:03:06 PM User: yfuifgiu
+Wednesday, October 11th, 2017, 1:03:06 PM User: confirm
+Wednesday, October 11th, 2017, 1:03:08 PM CloBot: Last Name:
+Wednesday, October 11th, 2017, 1:03:12 PM User: fuyffyyu
+Wednesday, October 11th, 2017, 1:03:12 PM User: first name
+Wednesday, October 11th, 2017, 1:03:13 PM CloBot: Gender:
+Wednesday, October 11th, 2017, 1:03:17 PM User: last name
+Wednesday, October 11th, 2017, 1:03:17 PM User: Male
+Wednesday, October 11th, 2017, 1:03:18 PM CloBot: Mobile no:
+Wednesday, October 11th, 2017, 1:03:22 PM User: 546464646
+Wednesday, October 11th, 2017, 1:03:22 PM User: gender
+Wednesday, October 11th, 2017, 1:03:23 PM CloBot: Personal Email Id:
+Wednesday, October 11th, 2017, 1:03:26 PM User: mobile no
+Wednesday, October 11th, 2017, 1:03:26 PM User: jgkgjg
+Wednesday, October 11th, 2017, 1:03:28 PM CloBot: Please Type the OTP sent to your mobile no:
+Wednesday, October 11th, 2017, 1:03:32 PM User: kpk
+Wednesday, October 11th, 2017, 1:03:32 PM User: personal email
+Wednesday, October 11th, 2017, 1:03:33 PM CloBot:  Superb! We have registered you in moneykit.
+We would love to know more about you! 
+ 
+ Date of Birth: ddmmyyyy 
+Wednesday, October 11th, 2017, 1:03:37 PM User: 454646
+Wednesday, October 11th, 2017, 1:03:37 PM User: OTP verify
+Wednesday, October 11th, 2017, 1:03:39 PM CloBot: Highest Level of Education :
+Wednesday, October 11th, 2017, 1:03:42 PM User: date of birth
+Wednesday, October 11th, 2017, 1:03:42 PM User: Graduate
+Wednesday, October 11th, 2017, 1:03:44 PM CloBot: Marital Status:
+Wednesday, October 11th, 2017, 1:03:48 PM User: Married
+Wednesday, October 11th, 2017, 1:03:48 PM User: highest qualification
+Wednesday, October 11th, 2017, 1:03:49 PM CloBot: If married, is spouse working?:
+Wednesday, October 11th, 2017, 1:03:51 PM User: martial status
+Wednesday, October 11th, 2017, 1:03:51 PM User: Yes
+Wednesday, October 11th, 2017, 1:03:53 PM CloBot: Residence Type :
+Wednesday, October 11th, 2017, 1:03:55 PM User: Rented
+Wednesday, October 11th, 2017, 1:03:55 PM User: spouse job
+Wednesday, October 11th, 2017, 1:03:58 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 1:12:51 PM User: Yes
+Wednesday, October 11th, 2017, 1:12:51 PM User: undefined
+Wednesday, October 11th, 2017, 1:12:51 PM User: 1
+Wednesday, October 11th, 2017, 1:12:54 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 1:12:57 PM User: welcome
+Wednesday, October 11th, 2017, 1:12:57 PM User: Yes
+Wednesday, October 11th, 2017, 1:12:59 PM CloBot: First Name :
+Wednesday, October 11th, 2017, 1:13:03 PM User: confirm
+Wednesday, October 11th, 2017, 1:13:03 PM User: fyufygfu
+Wednesday, October 11th, 2017, 1:13:05 PM CloBot: Last Name:
+Wednesday, October 11th, 2017, 1:13:09 PM User: dghdg
+Wednesday, October 11th, 2017, 1:13:09 PM User: first name
+Wednesday, October 11th, 2017, 1:13:11 PM CloBot: Gender:
+Wednesday, October 11th, 2017, 1:13:22 PM User: Male
+Wednesday, October 11th, 2017, 1:13:22 PM User: last name
+Wednesday, October 11th, 2017, 1:13:24 PM CloBot: Mobile no:
+Wednesday, October 11th, 2017, 1:13:37 PM User: 5596464646
+Wednesday, October 11th, 2017, 1:13:37 PM User: gender
+Wednesday, October 11th, 2017, 1:13:38 PM CloBot: Personal Email Id:
+Wednesday, October 11th, 2017, 1:13:43 PM User: mobile no
+Wednesday, October 11th, 2017, 1:13:43 PM User: huhiuh
+Wednesday, October 11th, 2017, 1:13:45 PM CloBot: Please Type the OTP sent to your mobile no:
+Wednesday, October 11th, 2017, 1:14:01 PM User: 4646
+Wednesday, October 11th, 2017, 1:14:01 PM User: personal email
+Wednesday, October 11th, 2017, 1:14:03 PM CloBot:  Superb! We have registered you in moneykit.
+We would love to know more about you! 
+ 
+ Date of Birth: ddmmyyyy 
+Wednesday, October 11th, 2017, 1:14:08 PM User: +6+564
+Wednesday, October 11th, 2017, 1:14:08 PM User: OTP verify
+Wednesday, October 11th, 2017, 1:14:11 PM CloBot: Highest Level of Education :
+Wednesday, October 11th, 2017, 1:14:31 PM User: Graduate
+Wednesday, October 11th, 2017, 1:14:31 PM User: date of birth
+Wednesday, October 11th, 2017, 1:14:33 PM CloBot: Marital Status:
+Wednesday, October 11th, 2017, 1:14:58 PM User: highest qualification
+Wednesday, October 11th, 2017, 1:14:58 PM User: Married
+Wednesday, October 11th, 2017, 1:15:00 PM CloBot: If married, is spouse working?:
+Wednesday, October 11th, 2017, 1:15:04 PM User: Yes
+Wednesday, October 11th, 2017, 1:15:04 PM User: martial status
+Wednesday, October 11th, 2017, 1:15:06 PM CloBot: Residence Type :
+Wednesday, October 11th, 2017, 1:15:10 PM User: spouse job
+Wednesday, October 11th, 2017, 1:15:10 PM User: 2
+Wednesday, October 11th, 2017, 1:15:10 PM User: Rented
+Wednesday, October 11th, 2017, 1:15:12 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 1:22:10 PM User: hi
+Wednesday, October 11th, 2017, 1:22:10 PM User: undefined
+Wednesday, October 11th, 2017, 1:22:10 PM User: 1
+Wednesday, October 11th, 2017, 1:22:12 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, October 11th, 2017, 1:22:15 PM User: welcome
+Wednesday, October 11th, 2017, 1:22:15 PM User: Yes
+Wednesday, October 11th, 2017, 1:22:17 PM CloBot: First Name :
+Wednesday, October 11th, 2017, 1:22:20 PM User: jkkugkjghj
+Wednesday, October 11th, 2017, 1:22:20 PM User: confirm
+Wednesday, October 11th, 2017, 1:22:21 PM CloBot: Last Name:
+Wednesday, October 11th, 2017, 1:22:40 PM User: hfjyhfj
+Wednesday, October 11th, 2017, 1:22:40 PM User: first name
+Wednesday, October 11th, 2017, 1:22:42 PM CloBot: Gender:
+Wednesday, October 11th, 2017, 1:22:47 PM User: last name
+Wednesday, October 11th, 2017, 1:22:47 PM User: Male
+Wednesday, October 11th, 2017, 1:22:50 PM CloBot: Mobile no:
+Wednesday, October 11th, 2017, 1:22:54 PM User: 4964694646
+Wednesday, October 11th, 2017, 1:22:54 PM User: gender
+Wednesday, October 11th, 2017, 1:22:55 PM CloBot: Personal Email Id:
+Wednesday, October 11th, 2017, 1:22:59 PM User: yfyfyugu
+Wednesday, October 11th, 2017, 1:22:59 PM User: mobile no
+Wednesday, October 11th, 2017, 1:23:02 PM CloBot: Please Type the OTP sent to your mobile no:
+Wednesday, October 11th, 2017, 1:23:07 PM User: tgdtdd
+Wednesday, October 11th, 2017, 1:23:07 PM User: personal email
+Wednesday, October 11th, 2017, 1:23:09 PM CloBot:  Superb! We have registered you in moneykit.
+We would love to know more about you! 
+ 
+ Date of Birth: ddmmyyyy 
+Wednesday, October 11th, 2017, 1:23:12 PM User: OTP verify
+Wednesday, October 11th, 2017, 1:23:12 PM User: hffhfhf
+Wednesday, October 11th, 2017, 1:23:14 PM CloBot: Highest Level of Education :
+Wednesday, October 11th, 2017, 1:23:21 PM User: Graduate
+Wednesday, October 11th, 2017, 1:23:21 PM User: date of birth
+Wednesday, October 11th, 2017, 1:23:25 PM CloBot: Marital Status:
+Wednesday, October 11th, 2017, 1:23:28 PM User: Married
+Wednesday, October 11th, 2017, 1:23:28 PM User: highest qualification
+Wednesday, October 11th, 2017, 1:23:31 PM CloBot: If married, is spouse working?:
+Wednesday, October 11th, 2017, 1:23:34 PM User: Yes
+Wednesday, October 11th, 2017, 1:23:34 PM User: martial status
+Wednesday, October 11th, 2017, 1:23:36 PM CloBot: Residence Type :
+Wednesday, October 11th, 2017, 1:23:37 PM User: spouse job
+Wednesday, October 11th, 2017, 1:23:37 PM User: Rented
+Wednesday, October 11th, 2017, 1:23:39 PM CloBot: Residential Address :
+Wednesday, October 11th, 2017, 1:23:44 PM User: fyfufugug
+Wednesday, October 11th, 2017, 1:23:44 PM User: type of residence
+Wednesday, October 11th, 2017, 1:23:46 PM CloBot: How many family members stay with you? :
+Wednesday, October 11th, 2017, 1:23:49 PM User: residential address
+Wednesday, October 11th, 2017, 1:23:49 PM User: Three
+Wednesday, October 11th, 2017, 1:23:51 PM CloBot: How many family members are dependent? (non-earning members) :
+Thursday, October 12th, 2017, 2:30:57 PM User: 1
+Thursday, October 12th, 2017, 2:30:57 PM User: undefined
+Thursday, October 12th, 2017, 2:30:57 PM User: hi
+Thursday, October 12th, 2017, 2:31:00 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 2:31:04 PM User: Yes
+Thursday, October 12th, 2017, 2:31:04 PM User: welcome
+Thursday, October 12th, 2017, 2:31:06 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 2:56:27 PM User: kishan
+Thursday, October 12th, 2017, 2:56:27 PM User: confirm
+Thursday, October 12th, 2017, 2:56:29 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 2:57:21 PM User: shetty
+Thursday, October 12th, 2017, 2:57:21 PM User: first name
+Thursday, October 12th, 2017, 2:57:22 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Thursday, October 12th, 2017, 2:57:25 PM User: Male
+Thursday, October 12th, 2017, 2:57:25 PM User: last name
+Thursday, October 12th, 2017, 2:57:26 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Thursday, October 12th, 2017, 2:57:33 PM User: 5965292952
+Thursday, October 12th, 2017, 2:57:33 PM User: gender
+Thursday, October 12th, 2017, 2:57:37 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Thursday, October 12th, 2017, 3:10:55 PM User: hi
+Thursday, October 12th, 2017, 3:10:55 PM User: undefined
+Thursday, October 12th, 2017, 3:10:55 PM User: 1
+Thursday, October 12th, 2017, 3:11:04 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 3:11:08 PM User: Yes
+Thursday, October 12th, 2017, 3:11:08 PM User: welcome
+Thursday, October 12th, 2017, 3:11:13 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 3:11:38 PM User: confirm
+Thursday, October 12th, 2017, 3:11:38 PM User: Kishan
+Thursday, October 12th, 2017, 3:11:42 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 3:22:25 PM User: hi
+Thursday, October 12th, 2017, 3:22:25 PM User: undefined
+Thursday, October 12th, 2017, 3:22:25 PM User: 1
+Thursday, October 12th, 2017, 3:22:28 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 3:22:33 PM User: Yes
+Thursday, October 12th, 2017, 3:22:33 PM User: welcome
+Thursday, October 12th, 2017, 3:22:35 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 3:22:49 PM User: kishan
+Thursday, October 12th, 2017, 3:22:49 PM User: confirm
+Thursday, October 12th, 2017, 3:22:50 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 3:22:58 PM User: shetty
+Thursday, October 12th, 2017, 3:22:58 PM User: first name
+Thursday, October 12th, 2017, 3:23:00 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Thursday, October 12th, 2017, 3:23:03 PM User: Male
+Thursday, October 12th, 2017, 3:23:03 PM User: last name
+Thursday, October 12th, 2017, 3:23:05 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Thursday, October 12th, 2017, 3:34:30 PM User: hi
+Thursday, October 12th, 2017, 3:34:30 PM User: 1
+Thursday, October 12th, 2017, 3:34:30 PM User: undefined
+Thursday, October 12th, 2017, 3:34:33 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 3:34:36 PM User: Yes
+Thursday, October 12th, 2017, 3:34:36 PM User: welcome
+Thursday, October 12th, 2017, 3:34:38 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 3:34:43 PM User: asdasdas
+Thursday, October 12th, 2017, 3:34:43 PM User: confirm
+Thursday, October 12th, 2017, 3:34:45 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 3:34:48 PM User: sadasda
+Thursday, October 12th, 2017, 3:34:48 PM User: first name
+Thursday, October 12th, 2017, 3:34:50 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Thursday, October 12th, 2017, 3:34:52 PM User: last name
+Thursday, October 12th, 2017, 3:34:52 PM User: Male
+Thursday, October 12th, 2017, 3:34:54 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Thursday, October 12th, 2017, 3:34:58 PM User: gender
+Thursday, October 12th, 2017, 3:34:58 PM User: 1561651616
+Thursday, October 12th, 2017, 3:35:00 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Thursday, October 12th, 2017, 3:35:04 PM User: asdad
+Thursday, October 12th, 2017, 3:35:04 PM User: mobile no
+Thursday, October 12th, 2017, 3:35:06 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Thursday, October 12th, 2017, 3:35:09 PM User: asdasdd
+Thursday, October 12th, 2017, 3:35:09 PM User: personal email
+Thursday, October 12th, 2017, 3:35:11 PM CloBot: Superb! We would now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Thursday, October 12th, 2017, 3:35:13 PM User: asdasd
+Thursday, October 12th, 2017, 3:35:13 PM User: OTP verify
+Thursday, October 12th, 2017, 3:35:14 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Thursday, October 12th, 2017, 3:35:17 PM User: Graduate
+Thursday, October 12th, 2017, 3:35:17 PM User: date of birth
+Thursday, October 12th, 2017, 3:35:19 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Thursday, October 12th, 2017, 3:35:21 PM User: Married
+Thursday, October 12th, 2017, 3:35:21 PM User: highest qualification
+Thursday, October 12th, 2017, 3:35:23 PM CloBot: Thanks, let us know if your better half is a salaried/ self-employed professional?:
+Thursday, October 12th, 2017, 3:35:27 PM User: Yes
+Thursday, October 12th, 2017, 3:35:27 PM User: martial status
+Thursday, October 12th, 2017, 3:35:29 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Thursday, October 12th, 2017, 3:35:33 PM User: spouse job
+Thursday, October 12th, 2017, 3:35:33 PM User: Rented
+Thursday, October 12th, 2017, 3:35:35 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Thursday, October 12th, 2017, 3:35:42 PM User: sadsaddas
+Thursday, October 12th, 2017, 3:35:42 PM User: type of residence
+Thursday, October 12th, 2017, 3:35:44 PM CloBot: Awesome. How many family members stay with you at home? :
+Thursday, October 12th, 2017, 3:35:47 PM User: residential address
+Thursday, October 12th, 2017, 3:35:47 PM User: Three
+Thursday, October 12th, 2017, 3:35:48 PM CloBot: How many of them are dependent? (non-earning members)  :
+Thursday, October 12th, 2017, 3:35:50 PM User: Three
+Thursday, October 12th, 2017, 3:35:50 PM User: family members
+Thursday, October 12th, 2017, 3:35:52 PM CloBot: Wow! Our connection is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Thursday, October 12th, 2017, 3:35:55 PM User: Salaried
+Thursday, October 12th, 2017, 3:35:55 PM User: dependent members
+Thursday, October 12th, 2017, 3:35:56 PM CloBot: If your choice is others, please specify: 
+Thursday, October 12th, 2017, 3:36:01 PM User: asdasd
+Thursday, October 12th, 2017, 3:36:01 PM User: employment type
+Thursday, October 12th, 2017, 3:36:03 PM CloBot: What is the brand that you wear proudly up your sleeve? What's your current company called? : 
+Thursday, October 12th, 2017, 4:46:15 PM User: hi
+Thursday, October 12th, 2017, 4:46:15 PM User: 1
+Thursday, October 12th, 2017, 4:46:15 PM User: undefined
+Thursday, October 12th, 2017, 4:46:17 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 4:46:20 PM User: welcome
+Thursday, October 12th, 2017, 4:46:20 PM User: Yes
+Thursday, October 12th, 2017, 4:46:22 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 4:46:25 PM User: confirm
+Thursday, October 12th, 2017, 4:46:25 PM User: ashika
+Thursday, October 12th, 2017, 4:46:27 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 4:46:29 PM User: ajhsjkla
+Thursday, October 12th, 2017, 4:46:29 PM User: first name
+Thursday, October 12th, 2017, 4:46:30 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Thursday, October 12th, 2017, 4:46:33 PM User: Male
+Thursday, October 12th, 2017, 4:46:33 PM User: last name
+Thursday, October 12th, 2017, 4:46:34 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Thursday, October 12th, 2017, 4:46:37 PM User: asjdkgjl
+Thursday, October 12th, 2017, 4:46:37 PM User: gender
+Thursday, October 12th, 2017, 4:46:38 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Thursday, October 12th, 2017, 4:46:55 PM User: agsjd
+Thursday, October 12th, 2017, 4:46:55 PM User: mobile no
+Thursday, October 12th, 2017, 4:46:56 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Thursday, October 12th, 2017, 4:47:01 PM User: personal email
+Thursday, October 12th, 2017, 4:47:01 PM User: hgsdhj
+Thursday, October 12th, 2017, 4:47:03 PM CloBot: Superb! We would now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Thursday, October 12th, 2017, 4:47:07 PM User: OTP verify
+Thursday, October 12th, 2017, 4:47:07 PM User: gsfdsd
+Thursday, October 12th, 2017, 4:47:08 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Thursday, October 12th, 2017, 4:47:22 PM User: Other
+Thursday, October 12th, 2017, 4:47:22 PM User: date of birth
+Thursday, October 12th, 2017, 4:47:24 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Thursday, October 12th, 2017, 4:47:28 PM User: Married
+Thursday, October 12th, 2017, 4:47:28 PM User: highest qualification
+Thursday, October 12th, 2017, 4:47:30 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Thursday, October 12th, 2017, 4:47:33 PM User: Yes
+Thursday, October 12th, 2017, 4:47:33 PM User: martial status
+Thursday, October 12th, 2017, 4:47:34 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Thursday, October 12th, 2017, 4:47:39 PM User: spouse job
+Thursday, October 12th, 2017, 4:47:39 PM User: Rented
+Thursday, October 12th, 2017, 4:47:41 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Thursday, October 12th, 2017, 4:47:45 PM User: sasas
+Thursday, October 12th, 2017, 4:47:45 PM User: type of residence
+Thursday, October 12th, 2017, 4:47:47 PM CloBot: Awesome. How many family members stay with you at home? :
+Thursday, October 12th, 2017, 4:47:50 PM User: Three
+Thursday, October 12th, 2017, 4:47:50 PM User: residential address
+Thursday, October 12th, 2017, 4:47:51 PM CloBot: How many of them are dependent? (non-earning members)  :
+Thursday, October 12th, 2017, 4:47:53 PM User: family members
+Thursday, October 12th, 2017, 4:47:53 PM User: Three
+Thursday, October 12th, 2017, 4:47:55 PM CloBot: Wow! Our bond is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Thursday, October 12th, 2017, 4:47:57 PM User: dependent members
+Thursday, October 12th, 2017, 4:47:57 PM User: Salaried
+Thursday, October 12th, 2017, 4:47:59 PM CloBot: If your choice is others, please specify: 
+Thursday, October 12th, 2017, 4:48:23 PM User: employment type
+Thursday, October 12th, 2017, 4:48:23 PM User: sasas
+Thursday, October 12th, 2017, 4:48:24 PM CloBot: What is the brand that you wear proudly up your sleeve? What's your current company called? : 
+Thursday, October 12th, 2017, 4:48:57 PM User: adad
+Thursday, October 12th, 2017, 4:48:57 PM User: other type
+Thursday, October 12th, 2017, 4:48:59 PM CloBot: Thank you. How strong is your association? How many years have you spent in the current company?: 
+Thursday, October 12th, 2017, 4:49:02 PM User: assas
+Thursday, October 12th, 2017, 4:49:02 PM User: employer name
+Thursday, October 12th, 2017, 4:49:04 PM CloBot: That's great. The experience in your years counts... So does the years of experience...How many years in all have you spent working?: 
+Thursday, October 12th, 2017, 4:49:08 PM User: assas
+Thursday, October 12th, 2017, 4:49:08 PM User: no of empyear
+Thursday, October 12th, 2017, 4:49:10 PM CloBot: Few joys compare to the paycheck you receive every month, isnt it? What salary do you draw every month?: 
+Thursday, October 12th, 2017, 4:49:14 PM User: assas
+Thursday, October 12th, 2017, 4:49:14 PM User: total work exp
+Thursday, October 12th, 2017, 4:49:15 PM CloBot: And the last question from me. Please share your company email ID? I will send a validation link. All you need to do is open the email and click the link.   : 
+Thursday, October 12th, 2017, 4:49:19 PM User: monthly salary
+Thursday, October 12th, 2017, 4:49:19 PM User: asaass
+Thursday, October 12th, 2017, 4:49:21 PM CloBot: Great. Now that we know each other very well, let us know a bit about your loan requirement 
+
+ How much money shall I trasfer into your account?
+Thursday, October 12th, 2017, 4:49:36 PM User: official email id
+Thursday, October 12th, 2017, 4:49:36 PM User: addads
+Thursday, October 12th, 2017, 4:49:38 PM CloBot: Ok..will it be spent on yourself or are you feeling generous?: 
+Thursday, October 12th, 2017, 4:49:43 PM User: money required
+Thursday, October 12th, 2017, 4:49:43 PM User: Others
+Thursday, October 12th, 2017, 4:49:45 PM CloBot: If others, please specify?: 
+Thursday, October 12th, 2017, 4:49:53 PM User: adassd
+Thursday, October 12th, 2017, 4:49:53 PM User: money reasons
+Thursday, October 12th, 2017, 4:49:55 PM CloBot: Great. I believe money should come in the way of friendships.What's a comfortable timeframe for you to pay it back?: 
+Thursday, October 12th, 2017, 4:49:57 PM User: hi
+Thursday, October 12th, 2017, 4:49:57 PM User: money other reasons
+Thursday, October 12th, 2017, 4:49:59 PM CloBot: Thanks, do you have an on-going loan? : 
+Thursday, October 12th, 2017, 4:50:22 PM User: hi
+Thursday, October 12th, 2017, 4:50:22 PM User: money timeline
+Thursday, October 12th, 2017, 4:50:25 PM CloBot: If yes, whats your current total EMI across all loans(Equated Monthly Installments)?: 
+Thursday, October 12th, 2017, 4:50:42 PM User: existing loan
+Thursday, October 12th, 2017, 4:50:42 PM User: restart
+Thursday, October 12th, 2017, 4:50:42 PM User: 2
+Thursday, October 12th, 2017, 4:50:45 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 4:50:51 PM User: Yes
+Thursday, October 12th, 2017, 4:50:51 PM User: welcome
+Thursday, October 12th, 2017, 4:50:53 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 4:50:58 PM User: asaas
+Thursday, October 12th, 2017, 4:50:58 PM User: confirm
+Thursday, October 12th, 2017, 4:50:59 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 4:51:04 PM User: sasas
+Thursday, October 12th, 2017, 4:51:04 PM User: first name
+Thursday, October 12th, 2017, 4:51:07 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Thursday, October 12th, 2017, 4:57:24 PM User: Male
+Thursday, October 12th, 2017, 4:57:24 PM User: last name
+Thursday, October 12th, 2017, 4:57:26 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Thursday, October 12th, 2017, 4:57:31 PM User: gffddfg
+Thursday, October 12th, 2017, 4:57:31 PM User: gender
+Thursday, October 12th, 2017, 4:57:33 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Thursday, October 12th, 2017, 4:57:36 PM User: mobile no
+Thursday, October 12th, 2017, 4:57:36 PM User: fdgd
+Thursday, October 12th, 2017, 4:57:38 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Thursday, October 12th, 2017, 4:57:41 PM User: gfdgdf
+Thursday, October 12th, 2017, 4:57:41 PM User: personal email
+Thursday, October 12th, 2017, 4:57:42 PM CloBot: Superb! We would now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Thursday, October 12th, 2017, 4:57:46 PM User: fgd
+Thursday, October 12th, 2017, 4:57:46 PM User: OTP verify
+Thursday, October 12th, 2017, 4:57:48 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Thursday, October 12th, 2017, 4:57:50 PM User: Graduate
+Thursday, October 12th, 2017, 4:57:50 PM User: date of birth
+Thursday, October 12th, 2017, 4:57:51 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Thursday, October 12th, 2017, 4:57:54 PM User: highest qualification
+Thursday, October 12th, 2017, 4:57:54 PM User: Married
+Thursday, October 12th, 2017, 4:57:56 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Thursday, October 12th, 2017, 4:57:58 PM User: Yes
+Thursday, October 12th, 2017, 4:57:58 PM User: martial status
+Thursday, October 12th, 2017, 4:57:59 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Thursday, October 12th, 2017, 4:58:04 PM User: spouse job
+Thursday, October 12th, 2017, 4:58:04 PM User: Rented
+Thursday, October 12th, 2017, 4:58:05 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Thursday, October 12th, 2017, 4:58:10 PM User: type of residence
+Thursday, October 12th, 2017, 4:58:10 PM User: fdgdf
+Thursday, October 12th, 2017, 4:58:11 PM CloBot: Awesome. How many family members stay with you at home? :
+Thursday, October 12th, 2017, 4:58:15 PM User: residential address
+Thursday, October 12th, 2017, 4:58:15 PM User: Three
+Thursday, October 12th, 2017, 4:58:16 PM CloBot: How many of them are dependent? (non-earning members)  :
+Thursday, October 12th, 2017, 4:58:19 PM User: Three
+Thursday, October 12th, 2017, 4:58:19 PM User: family members
+Thursday, October 12th, 2017, 4:58:21 PM CloBot: Wow! Our bond is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Thursday, October 12th, 2017, 4:58:32 PM User: dependent members
+Thursday, October 12th, 2017, 4:58:32 PM User: Pensioner
+Thursday, October 12th, 2017, 4:58:34 PM CloBot: If your choice is others, please specify: 
+Thursday, October 12th, 2017, 4:58:49 PM User: fdgf
+Thursday, October 12th, 2017, 4:58:49 PM User: employment type
+Thursday, October 12th, 2017, 4:58:50 PM CloBot: What is the brand that you wear proudly up your sleeve? What's your current company called? : 
+Thursday, October 12th, 2017, 4:58:55 PM User: fdgdf
+Thursday, October 12th, 2017, 4:58:55 PM User: other type
+Thursday, October 12th, 2017, 4:58:56 PM CloBot: Thank you. How strong is your association? How many years have you spent in the current company?: 
+Thursday, October 12th, 2017, 4:59:00 PM User: dfgdf
+Thursday, October 12th, 2017, 4:59:00 PM User: employer name
+Thursday, October 12th, 2017, 4:59:01 PM CloBot: That's great. The experience in your years counts... So does the years of experience...How many years in all have you spent working?: 
+Thursday, October 12th, 2017, 4:59:05 PM User: dfg
+Thursday, October 12th, 2017, 4:59:05 PM User: no of empyear
+Thursday, October 12th, 2017, 4:59:07 PM CloBot: Few joys compare to the paycheck you receive every month, isnt it? What salary do you draw every month?: 
+Thursday, October 12th, 2017, 4:59:11 PM User: dfgffdfg
+Thursday, October 12th, 2017, 4:59:11 PM User: total work exp
+Thursday, October 12th, 2017, 4:59:12 PM CloBot: And the last question from me. Please share your company email ID? I will send a validation link. All you need to do is open the email and click the link.   : 
+Thursday, October 12th, 2017, 4:59:18 PM User: dfgdfd
+Thursday, October 12th, 2017, 4:59:18 PM User: monthly salary
+Thursday, October 12th, 2017, 4:59:19 PM CloBot: Great. Now that we know each other very well, let us know a bit about your loan requirement 
+
+ How much money shall I trasfer into your account?
+Thursday, October 12th, 2017, 4:59:22 PM User: dfgd
+Thursday, October 12th, 2017, 4:59:22 PM User: official email id
+Thursday, October 12th, 2017, 4:59:25 PM CloBot: Ok..will it be spent on yourself or are you feeling generous?: 
+Thursday, October 12th, 2017, 4:59:31 PM User: money required
+Thursday, October 12th, 2017, 4:59:31 PM User: Education/ Wedding
+Thursday, October 12th, 2017, 4:59:33 PM CloBot: Great. I believe money should come in the way of friendships.What's a comfortable timeframe for you to pay it back?: 
+Thursday, October 12th, 2017, 4:59:37 PM User: fdgf
+Thursday, October 12th, 2017, 4:59:37 PM User: money other reasons
+Thursday, October 12th, 2017, 4:59:39 PM CloBot: Thanks, do you have an on-going loan? : 
+Thursday, October 12th, 2017, 4:59:47 PM User: money timeline
+Thursday, October 12th, 2017, 4:59:47 PM User: no
+Thursday, October 12th, 2017, 4:59:49 PM CloBot: If yes, whats your current total EMI across all loans(Equated Monthly Installments)?: 
+Thursday, October 12th, 2017, 5:18:12 PM User: hi
+Thursday, October 12th, 2017, 5:18:12 PM User: undefined
+Thursday, October 12th, 2017, 5:18:12 PM User: 1
+Thursday, October 12th, 2017, 5:18:15 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Thursday, October 12th, 2017, 5:18:18 PM User: Yes
+Thursday, October 12th, 2017, 5:18:18 PM User: welcome
+Thursday, October 12th, 2017, 5:18:24 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Thursday, October 12th, 2017, 5:20:14 PM User: confirm
+Thursday, October 12th, 2017, 5:20:14 PM User: jdfhsd
+Thursday, October 12th, 2017, 5:20:16 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Thursday, October 12th, 2017, 5:20:19 PM User: dsjfhsdjk
+Thursday, October 12th, 2017, 5:20:19 PM User: first name
+Thursday, October 12th, 2017, 5:20:20 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Thursday, October 12th, 2017, 5:20:26 PM User: Male
+Thursday, October 12th, 2017, 5:20:26 PM User: last name
+Thursday, October 12th, 2017, 5:20:27 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Thursday, October 12th, 2017, 5:20:29 PM User: gjfsdjksdf
+Thursday, October 12th, 2017, 5:20:29 PM User: gender
+Thursday, October 12th, 2017, 5:20:30 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Thursday, October 12th, 2017, 5:20:35 PM User: mobile no
+Thursday, October 12th, 2017, 5:20:35 PM User: djfskhk
+Thursday, October 12th, 2017, 5:20:36 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Thursday, October 12th, 2017, 5:20:40 PM User: personal email
+Thursday, October 12th, 2017, 5:20:40 PM User: dsfkjhsdj
+Thursday, October 12th, 2017, 5:20:41 PM CloBot: Superb! We would now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Thursday, October 12th, 2017, 5:20:45 PM User: OTP verify
+Thursday, October 12th, 2017, 5:20:45 PM User: kdsfjkls
+Thursday, October 12th, 2017, 5:20:47 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Thursday, October 12th, 2017, 5:20:54 PM User: date of birth
+Thursday, October 12th, 2017, 5:20:54 PM User: Graduate
+Thursday, October 12th, 2017, 5:20:56 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Thursday, October 12th, 2017, 5:21:09 PM User: highest qualification
+Thursday, October 12th, 2017, 5:21:09 PM User: Married
+Thursday, October 12th, 2017, 5:21:11 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Thursday, October 12th, 2017, 5:22:51 PM User: martial status
+Thursday, October 12th, 2017, 5:22:51 PM User: Yes
+Thursday, October 12th, 2017, 5:22:52 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Thursday, October 12th, 2017, 5:22:54 PM User: spouse job
+Thursday, October 12th, 2017, 5:22:54 PM User: Rented
+Thursday, October 12th, 2017, 5:22:56 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Thursday, October 12th, 2017, 5:23:01 PM User: fdgdfgdf
+Thursday, October 12th, 2017, 5:23:01 PM User: type of residence
+Thursday, October 12th, 2017, 5:23:03 PM CloBot: Awesome. How many family members stay with you at home? :
+Thursday, October 12th, 2017, 5:23:07 PM User: Two
+Thursday, October 12th, 2017, 5:23:07 PM User: residential address
+Thursday, October 12th, 2017, 5:23:09 PM CloBot: How many of them are dependent? (non-earning members)  :
+Thursday, October 12th, 2017, 5:23:11 PM User: family members
+Thursday, October 12th, 2017, 5:23:11 PM User: Two
+Thursday, October 12th, 2017, 5:23:13 PM CloBot: Wow! Our bond is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Thursday, October 12th, 2017, 5:23:18 PM User: dependent members
+Thursday, October 12th, 2017, 5:23:18 PM User: Self-Employed
+Thursday, October 12th, 2017, 5:23:21 PM CloBot: If your choice is others, please specify: 
+Thursday, October 12th, 2017, 5:23:27 PM User: employment type
+Thursday, October 12th, 2017, 5:23:27 PM User: gfhfg
+Thursday, October 12th, 2017, 5:23:29 PM CloBot: What is the brand that you wear proudly up your sleeve? What's your current company called? : 
+Thursday, October 12th, 2017, 5:23:32 PM User: fghfhf
+Thursday, October 12th, 2017, 5:23:32 PM User: other type
+Thursday, October 12th, 2017, 5:23:33 PM CloBot: Thank you. How strong is your association? How many years have you spent in the current company?: 
+Thursday, October 12th, 2017, 5:23:37 PM User: fghfgh
+Thursday, October 12th, 2017, 5:23:37 PM User: employer name
+Thursday, October 12th, 2017, 5:23:39 PM CloBot: That's great. The experience in your years counts... So does the years of experience...How many years in all have you spent working?: 
+Thursday, October 12th, 2017, 5:23:42 PM User: no of empyear
+Thursday, October 12th, 2017, 5:23:42 PM User: fghgfhg
+Thursday, October 12th, 2017, 5:23:44 PM CloBot: Few joys compare to the paycheck you receive every month, isnt it? What salary do you draw every month?: 
+Thursday, October 12th, 2017, 5:23:47 PM User: total work exp
+Thursday, October 12th, 2017, 5:23:47 PM User: fhghgfhhg
+Thursday, October 12th, 2017, 5:23:48 PM CloBot: And the last question from me. Please share your company email ID? I will send a validation link. All you need to do is open the email and click the link.   : 
+Thursday, October 12th, 2017, 5:23:52 PM User: monthly salary
+Thursday, October 12th, 2017, 5:23:52 PM User: fghgfgh
+Thursday, October 12th, 2017, 5:23:53 PM CloBot: Great. Now that we know each other very well, let us know a bit about your loan requirement 
+
+ How much money shall I trasfer into your account?
+Thursday, October 12th, 2017, 5:23:57 PM User: official email id
+Thursday, October 12th, 2017, 5:23:57 PM User: fghfghfh
+Thursday, October 12th, 2017, 5:23:59 PM CloBot: Ok..will it be spent on yourself or are you feeling generous?: 
+Thursday, October 12th, 2017, 5:24:03 PM User: money required
+Thursday, October 12th, 2017, 5:24:03 PM User: Education/ Wedding
+Thursday, October 12th, 2017, 5:24:04 PM CloBot: Great. I believe money should come in the way of friendships.What's a comfortable timeframe for you to pay it back?: 
+Thursday, October 12th, 2017, 5:24:10 PM User: money other reasons
+Thursday, October 12th, 2017, 5:24:10 PM User: fghfghgfh
+Thursday, October 12th, 2017, 5:24:11 PM CloBot: Thanks, do you have an on-going loan? : 
+Thursday, October 12th, 2017, 5:24:16 PM User: No
+Thursday, October 12th, 2017, 5:24:16 PM User: money timeline
+Thursday, October 12th, 2017, 5:24:18 PM CloBot: We are almost done! Please share your AADHAR number and PAN number 
+ AADHAR number: 
+Thursday, October 12th, 2017, 5:26:20 PM User: ldjsfl;sd
+Thursday, October 12th, 2017, 5:26:20 PM User: existing emi
+Thursday, October 12th, 2017, 5:26:21 PM CloBot: PAN number: 
+Thursday, October 12th, 2017, 5:26:24 PM User: lsfdjlfsdlfjs
+Thursday, October 12th, 2017, 5:26:24 PM User: aadhar no
+Thursday, October 12th, 2017, 5:26:25 PM CloBot: Congratulation! Your loan request is accepted.
+Friday, October 13th, 2017, 12:32:21 PM User: hi
+Friday, October 13th, 2017, 12:32:21 PM User: undefined
+Friday, October 13th, 2017, 12:32:21 PM User: 1
+Friday, October 13th, 2017, 12:32:25 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Friday, October 13th, 2017, 12:33:04 PM User: Yes
+Friday, October 13th, 2017, 12:33:04 PM User: welcome
+Friday, October 13th, 2017, 12:33:07 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Friday, October 13th, 2017, 12:33:18 PM User: iusdfgfgujsdgj
+Friday, October 13th, 2017, 12:33:18 PM User: confirm
+Friday, October 13th, 2017, 12:33:20 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Friday, October 13th, 2017, 12:33:22 PM User: \dhsfghjsd
+Friday, October 13th, 2017, 12:33:22 PM User: first name
+Friday, October 13th, 2017, 12:33:24 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Friday, October 13th, 2017, 12:33:28 PM User: Male
+Friday, October 13th, 2017, 12:33:28 PM User: last name
+Friday, October 13th, 2017, 12:33:31 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Friday, October 13th, 2017, 12:33:38 PM User: gender
+Friday, October 13th, 2017, 12:33:38 PM User: 999898899
+Friday, October 13th, 2017, 12:33:40 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Friday, October 13th, 2017, 12:34:55 PM User: gdfggffg
+Friday, October 13th, 2017, 12:34:55 PM User: mobile no
+Friday, October 13th, 2017, 12:34:57 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Friday, October 13th, 2017, 12:35:00 PM User: fdgfdfg
+Friday, October 13th, 2017, 12:35:00 PM User: personal email
+Friday, October 13th, 2017, 12:35:02 PM CloBot: Superb! We are now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Friday, October 13th, 2017, 12:39:50 PM User: yhjgkjj
+Friday, October 13th, 2017, 12:39:50 PM User: OTP verify
+Friday, October 13th, 2017, 12:39:52 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Friday, October 13th, 2017, 12:40:04 PM User: Other
+Friday, October 13th, 2017, 12:40:04 PM User: date of birth
+Friday, October 13th, 2017, 12:40:08 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Friday, October 13th, 2017, 12:40:13 PM User: Single
+Friday, October 13th, 2017, 12:40:13 PM User: highest qualification
+Friday, October 13th, 2017, 12:40:15 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Friday, October 13th, 2017, 12:45:54 PM User: restart
+Friday, October 13th, 2017, 12:45:54 PM User: undefined
+Friday, October 13th, 2017, 12:45:54 PM User: 1
+Friday, October 13th, 2017, 12:45:54 PM User: 2
+Friday, October 13th, 2017, 12:46:00 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Friday, October 13th, 2017, 12:46:04 PM User: Yes
+Friday, October 13th, 2017, 12:46:04 PM User: welcome
+Friday, October 13th, 2017, 12:46:06 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Friday, October 13th, 2017, 12:46:09 PM User: saasasa
+Friday, October 13th, 2017, 12:46:09 PM User: confirm
+Friday, October 13th, 2017, 12:46:11 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Friday, October 13th, 2017, 12:46:14 PM User: first name
+Friday, October 13th, 2017, 12:46:14 PM User: sasa
+Friday, October 13th, 2017, 12:46:16 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Friday, October 13th, 2017, 12:46:23 PM User: Male
+Friday, October 13th, 2017, 12:46:23 PM User: last name
+Friday, October 13th, 2017, 12:46:24 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Friday, October 13th, 2017, 12:46:28 PM User: asasas
+Friday, October 13th, 2017, 12:46:28 PM User: gender
+Friday, October 13th, 2017, 12:46:30 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Friday, October 13th, 2017, 12:46:42 PM User: fdsfd
+Friday, October 13th, 2017, 12:46:42 PM User: mobile no
+Friday, October 13th, 2017, 12:46:44 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Friday, October 13th, 2017, 12:46:46 PM User: sdfsd
+Friday, October 13th, 2017, 12:46:46 PM User: personal email
+Friday, October 13th, 2017, 12:46:48 PM CloBot: Superb! We are now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Friday, October 13th, 2017, 12:46:51 PM User: sdfsd
+Friday, October 13th, 2017, 12:46:51 PM User: OTP verify
+Friday, October 13th, 2017, 12:46:52 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Friday, October 13th, 2017, 12:46:55 PM User: Graduate
+Friday, October 13th, 2017, 12:46:55 PM User: date of birth
+Friday, October 13th, 2017, 12:46:56 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Friday, October 13th, 2017, 12:47:03 PM User: Single
+Friday, October 13th, 2017, 12:47:03 PM User: highest qualification
+Friday, October 13th, 2017, 12:47:05 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Friday, October 13th, 2017, 12:48:20 PM User: restart
+Friday, October 13th, 2017, 12:48:20 PM User: undefined
+Friday, October 13th, 2017, 12:48:20 PM User: 1
+Friday, October 13th, 2017, 12:48:20 PM User: 2
+Friday, October 13th, 2017, 12:48:23 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Friday, October 13th, 2017, 12:57:45 PM User: Yes
+Friday, October 13th, 2017, 12:57:45 PM User: welcome
+Friday, October 13th, 2017, 12:57:47 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Friday, October 13th, 2017, 12:57:51 PM User: gfhgh
+Friday, October 13th, 2017, 12:57:51 PM User: confirm
+Friday, October 13th, 2017, 12:57:53 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Friday, October 13th, 2017, 12:57:56 PM User: fhddgf
+Friday, October 13th, 2017, 12:57:56 PM User: first name
+Friday, October 13th, 2017, 12:57:58 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Friday, October 13th, 2017, 2:13:02 PM User: Male
+Friday, October 13th, 2017, 2:13:02 PM User: last name
+Friday, October 13th, 2017, 2:13:04 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Friday, October 13th, 2017, 2:13:10 PM User: 9561456151
+Friday, October 13th, 2017, 2:13:10 PM User: gender
+Friday, October 13th, 2017, 2:13:12 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Friday, October 13th, 2017, 2:13:20 PM User: dfgdg
+Friday, October 13th, 2017, 2:13:20 PM User: mobile no
+Friday, October 13th, 2017, 2:13:21 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Friday, October 13th, 2017, 2:13:26 PM User: personal email
+Friday, October 13th, 2017, 2:13:26 PM User: 526+6
+Friday, October 13th, 2017, 2:14:11 PM User: 231112
+Friday, October 13th, 2017, 2:14:11 PM User: OTP verify
+Friday, October 13th, 2017, 2:14:13 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Friday, October 13th, 2017, 2:14:17 PM User: Other
+Friday, October 13th, 2017, 2:14:17 PM User: date of birth
+Friday, October 13th, 2017, 2:14:19 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Friday, October 13th, 2017, 2:14:23 PM User: Single
+Friday, October 13th, 2017, 2:14:23 PM User: highest qualification
+Friday, October 13th, 2017, 2:14:25 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Friday, October 13th, 2017, 2:14:37 PM User: Rented
+Friday, October 13th, 2017, 2:14:37 PM User: spouse job
+Friday, October 13th, 2017, 2:14:38 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Friday, October 13th, 2017, 2:14:42 PM User: type of residence
+Friday, October 13th, 2017, 2:14:42 PM User: 546546
+Friday, October 13th, 2017, 2:14:45 PM CloBot: Awesome. How many family members stay with you at home? :
+Friday, October 13th, 2017, 2:14:49 PM User: Three
+Friday, October 13th, 2017, 2:14:49 PM User: residential address
+Friday, October 13th, 2017, 2:14:51 PM CloBot: How many of them are dependent? (non-earning members)  :
+Friday, October 13th, 2017, 2:15:26 PM CloBot: Superb! We are now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Friday, October 13th, 2017, 2:16:06 PM User: Three
+Friday, October 13th, 2017, 2:16:06 PM User: family members
+Friday, October 13th, 2017, 2:16:07 PM CloBot: Wow! Our bond is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Friday, October 13th, 2017, 2:16:13 PM User: Other
+Friday, October 13th, 2017, 2:16:13 PM User: dependent members
+Friday, October 13th, 2017, 2:16:15 PM CloBot: If your choice is others, please specify: 
+Friday, October 13th, 2017, 2:23:20 PM User: restart
+Friday, October 13th, 2017, 2:23:20 PM User: undefined
+Friday, October 13th, 2017, 2:23:20 PM User: 2
+Friday, October 13th, 2017, 2:23:20 PM User: 1
+Friday, October 13th, 2017, 2:23:25 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Friday, October 13th, 2017, 2:23:29 PM User: Yes
+Friday, October 13th, 2017, 2:23:29 PM User: welcome
+Friday, October 13th, 2017, 2:23:32 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Friday, October 13th, 2017, 2:23:36 PM User: fgfdgf
+Friday, October 13th, 2017, 2:23:36 PM User: confirm
+Friday, October 13th, 2017, 2:23:38 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Friday, October 13th, 2017, 2:23:43 PM User: dfgfdgdf
+Friday, October 13th, 2017, 2:23:43 PM User: first name
+Friday, October 13th, 2017, 2:23:48 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Friday, October 13th, 2017, 2:23:53 PM User: Male
+Friday, October 13th, 2017, 2:23:53 PM User: last name
+Friday, October 13th, 2017, 2:23:55 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Friday, October 13th, 2017, 3:02:17 PM User: 315254515165
+Friday, October 13th, 2017, 3:02:17 PM User: gender
+Friday, October 13th, 2017, 3:02:20 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Friday, October 13th, 2017, 3:02:26 PM User: 451hgjgh
+Friday, October 13th, 2017, 3:02:26 PM User: mobile no
+Friday, October 13th, 2017, 3:02:28 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Friday, October 13th, 2017, 3:06:30 PM User: 6566
+Friday, October 13th, 2017, 3:06:30 PM User: personal email
+Friday, October 13th, 2017, 3:06:32 PM CloBot: Superb! We are now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Friday, October 13th, 2017, 3:06:39 PM User: 566
+Friday, October 13th, 2017, 3:06:39 PM User: OTP verify
+Friday, October 13th, 2017, 3:06:41 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Friday, October 13th, 2017, 3:06:49 PM User: date of birth
+Friday, October 13th, 2017, 3:06:49 PM User: 10th, 12th or Diploma
+Friday, October 13th, 2017, 3:06:52 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Friday, October 13th, 2017, 3:06:59 PM User: Married
+Friday, October 13th, 2017, 3:06:59 PM User: highest qualification
+Friday, October 13th, 2017, 3:07:01 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Friday, October 13th, 2017, 3:07:04 PM User: Yes
+Friday, October 13th, 2017, 3:07:04 PM User: martial status
+Friday, October 13th, 2017, 3:07:06 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Friday, October 13th, 2017, 3:07:08 PM User: Rented
+Friday, October 13th, 2017, 3:07:08 PM User: spouse job
+Friday, October 13th, 2017, 3:07:10 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Friday, October 13th, 2017, 3:07:19 PM User: 5955994
+Friday, October 13th, 2017, 3:07:19 PM User: type of residence
+Friday, October 13th, 2017, 3:07:21 PM CloBot: Awesome. How many family members stay with you at home? :
+Friday, October 13th, 2017, 3:07:23 PM User: Three
+Friday, October 13th, 2017, 3:07:23 PM User: residential address
+Friday, October 13th, 2017, 3:07:26 PM CloBot: How many of them are dependent? (non-earning members)  :
+Friday, October 13th, 2017, 3:14:02 PM User: Two
+Friday, October 13th, 2017, 3:14:02 PM User: family members
+Friday, October 13th, 2017, 3:14:06 PM CloBot: Wow! Our bond is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Friday, October 13th, 2017, 3:14:12 PM User: Pensioner
+Friday, October 13th, 2017, 3:14:12 PM User: dependent members
+Friday, October 13th, 2017, 3:14:14 PM CloBot: What is the brand that you wear proudly up your sleeve? What's your current company called? : 
+Friday, October 13th, 2017, 3:20:44 PM User: sdfdffs
+Friday, October 13th, 2017, 3:20:44 PM User: other type
+Friday, October 13th, 2017, 3:20:47 PM CloBot: Thank you. How strong is your association? How many years have you spent in the current company?: 
+Friday, October 13th, 2017, 3:20:51 PM User: sdfsd
+Friday, October 13th, 2017, 3:20:51 PM User: employer name
+Friday, October 13th, 2017, 3:21:07 PM CloBot: That's great. The experience in your years counts... So does the years of experience...How many years in all have you spent working?: 
+Friday, October 13th, 2017, 3:21:11 PM User: sdfsfdsdf
+Friday, October 13th, 2017, 3:21:11 PM User: no of empyear
+Friday, October 13th, 2017, 3:21:15 PM CloBot: Few joys compare to the paycheck you receive every month, isnt it? What salary do you draw every month?: 
+Friday, October 13th, 2017, 3:21:26 PM User: total work exp
+Friday, October 13th, 2017, 3:21:26 PM User: dsfsdfd
+Friday, October 13th, 2017, 3:21:30 PM CloBot: And the last question from me. Please share your company email ID? I will send a validation link. All you need to do is open the email and click the link.   : 
+Friday, October 13th, 2017, 3:21:54 PM User: sdfsdf
+Friday, October 13th, 2017, 3:21:54 PM User: monthly salary
+Friday, October 13th, 2017, 3:22:04 PM CloBot: Great. Now that we know each other very well, let us know a bit about your loan requirement 
+
+ How much money shall I trasfer into your account?
+Friday, October 13th, 2017, 3:22:13 PM User: sdfdsf
+Friday, October 13th, 2017, 3:22:13 PM User: official email id
+Friday, October 13th, 2017, 3:22:18 PM CloBot: Ok..will it be spent on yourself or are you feeling generous?: 
+Friday, October 13th, 2017, 3:22:55 PM User: Others
+Friday, October 13th, 2017, 3:22:55 PM User: money required
+Friday, October 13th, 2017, 3:23:15 PM CloBot: If others, please specify?: 
+Friday, October 13th, 2017, 3:24:01 PM User: 5151
+Friday, October 13th, 2017, 3:24:01 PM User: money reasons
+Friday, October 13th, 2017, 3:24:06 PM CloBot: Great. I believe money should come in the way of friendships.What's a comfortable timeframe for you to pay it back?: 
+Friday, October 13th, 2017, 3:24:36 PM User: money other reasons
+Friday, October 13th, 2017, 3:24:36 PM User: 31222
+Friday, October 13th, 2017, 3:24:39 PM CloBot: Thanks, do you have an on-going loan? : 
+Friday, October 13th, 2017, 3:24:49 PM User: money timeline
+Friday, October 13th, 2017, 3:24:49 PM User: No
+Friday, October 13th, 2017, 3:24:55 PM CloBot: We are almost done! Please share your AADHAR number and PAN number 
+ AADHAR number: 
+Friday, October 13th, 2017, 3:25:22 PM User: 55554545455454
+Friday, October 13th, 2017, 3:25:22 PM User: existing emi
+Friday, October 13th, 2017, 3:25:24 PM CloBot: PAN number: 
+Friday, October 13th, 2017, 3:26:13 PM User: 5454461961966
+Friday, October 13th, 2017, 3:26:13 PM User: aadhar no
+Friday, October 13th, 2017, 3:26:15 PM CloBot: Congratulation! Your loan request is accepted.
+Monday, October 16th, 2017, 5:27:59 PM User: hi
+Monday, October 16th, 2017, 5:27:59 PM User: 1
+Monday, October 16th, 2017, 5:27:59 PM User: undefined
+Monday, October 16th, 2017, 5:28:03 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Monday, October 16th, 2017, 5:28:15 PM User: Yes
+Monday, October 16th, 2017, 5:28:15 PM User: welcome
+Monday, October 16th, 2017, 5:28:19 PM CloBot: Shall I address you by your first name? Please help me with it? :
+Monday, October 16th, 2017, 5:28:27 PM User: kishan
+Monday, October 16th, 2017, 5:28:27 PM User: confirm
+Monday, October 16th, 2017, 5:28:29 PM CloBot: The proud suffix that adorns your first name? Your last name or surname please:
+Monday, October 16th, 2017, 5:28:33 PM User: hakas
+Monday, October 16th, 2017, 5:28:33 PM User: first name
+Monday, October 16th, 2017, 5:28:34 PM CloBot: That's great. You relate more to Mars or to Venus?:
+Monday, October 16th, 2017, 5:28:48 PM User: Male
+Monday, October 16th, 2017, 5:28:48 PM User: last name
+Monday, October 16th, 2017, 5:28:51 PM CloBot: Help me with the ten digits which will ensure that you are just a call away… You mobile number please?:
+Monday, October 16th, 2017, 5:28:58 PM User: 464644656
+Monday, October 16th, 2017, 5:28:58 PM User: gender
+Monday, October 16th, 2017, 5:29:00 PM CloBot: Awesome! If I write an email to you, which email ID of yours can ensure that I get the quickest response?:
+Monday, October 16th, 2017, 5:29:05 PM User: ahbjajs
+Monday, October 16th, 2017, 5:29:05 PM User: mobile no
+Monday, October 16th, 2017, 5:29:08 PM CloBot: Thank you. Can you write the One time password (OTP) I just sent on your mobile number. :
+Monday, October 16th, 2017, 5:29:12 PM User: asasas
+Monday, October 16th, 2017, 5:29:12 PM User: personal email
+Monday, October 16th, 2017, 5:29:14 PM CloBot: Superb! We are now connected. Let's get acquainted better… 
+Tell me about the date when you arrived on this planet ...a little bundle of joy for your parents (ddmmyy)
+Monday, October 16th, 2017, 5:30:02 PM User: 561465sda
+Monday, October 16th, 2017, 5:30:02 PM User: OTP verify
+Monday, October 16th, 2017, 5:30:04 PM CloBot: Cool, how about a trip down memory lane, a little about what you did at college? :
+Monday, October 16th, 2017, 5:30:11 PM User: Graduate
+Monday, October 16th, 2017, 5:30:11 PM User: date of birth
+Monday, October 16th, 2017, 5:30:13 PM CloBot: Have you walked down the aisle yet? Or are you waiting for the chosen one?
+Monday, October 16th, 2017, 5:30:40 PM User: Married
+Monday, October 16th, 2017, 5:30:40 PM User: highest qualification
+Monday, October 16th, 2017, 5:30:44 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Monday, October 16th, 2017, 5:35:46 PM User: Yes
+Monday, October 16th, 2017, 5:35:46 PM User: martial status
+Monday, October 16th, 2017, 5:35:48 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Monday, October 16th, 2017, 5:42:08 PM User: Self-owned
+Monday, October 16th, 2017, 5:42:08 PM User: spouse job
+Monday, October 16th, 2017, 5:42:10 PM CloBot: If I write courier stuff to you, what address should I send it to?:
+Monday, October 16th, 2017, 5:45:48 PM User: dfsfd
+Monday, October 16th, 2017, 5:45:48 PM User: type of residence
+Monday, October 16th, 2017, 5:45:51 PM CloBot: Awesome. How many family members stay with you at home? :
+Monday, October 16th, 2017, 5:45:54 PM User: residential address
+Monday, October 16th, 2017, 5:45:54 PM User: Three
+Monday, October 16th, 2017, 5:45:57 PM CloBot: How many of them are dependent? (non-earning members)  :
+Monday, October 16th, 2017, 5:48:39 PM User: Three
+Monday, October 16th, 2017, 5:48:39 PM User: family members
+Monday, October 16th, 2017, 5:48:41 PM CloBot: Wow! Our bond is only getting better. I am a few steps away from helping you get a loan! Let me know a bit about the professional in you!! 
+ Are you your own boss?: 
+Monday, October 16th, 2017, 5:49:24 PM User: dependent members
+Monday, October 16th, 2017, 5:49:24 PM User: Self-Employed
+Monday, October 16th, 2017, 5:49:27 PM CloBot: What is the brand that you wear proudly up your sleeve? What's your current company called? : 
+Monday, October 16th, 2017, 5:49:34 PM User: asasas
+Monday, October 16th, 2017, 5:49:34 PM User: other type
+Monday, October 16th, 2017, 5:49:35 PM CloBot: Thank you. How strong is your association? How many years have you spent in the current company?: 
+Monday, October 16th, 2017, 5:57:41 PM User: dsfdsf
+Monday, October 16th, 2017, 5:57:41 PM User: employer name
+Monday, October 16th, 2017, 5:57:43 PM CloBot: That's great. The experience in your years counts... So does the years of experience...How many years in all have you spent working?: 
+Monday, October 16th, 2017, 5:57:46 PM User: dsfdsfd
+Monday, October 16th, 2017, 5:57:46 PM User: no of empyear
+Monday, October 16th, 2017, 5:58:56 PM User: ghdfhgf
+Monday, October 16th, 2017, 5:58:56 PM User: total work exp
+Monday, October 16th, 2017, 5:58:58 PM CloBot: And the last question from me. Please share your company email ID? I will send a validation link. All you need to do is open the email and click the link.   : 
+Monday, October 16th, 2017, 5:59:03 PM User: sdfsd
+Monday, October 16th, 2017, 5:59:03 PM User: monthly salary
+Monday, October 16th, 2017, 5:59:06 PM CloBot: Great. Now that we know each other very well, let us know a bit about your loan requirement 
+
+ How much money shall I trasfer into your account?
+Monday, October 16th, 2017, 5:59:12 PM User: sdfsdfsdf
+Monday, October 16th, 2017, 5:59:12 PM User: official email id
+Monday, October 16th, 2017, 5:59:15 PM CloBot: Ok..will it be spent on yourself or are you feeling generous?: 
+Monday, October 16th, 2017, 5:59:20 PM User: Paying loans
+Monday, October 16th, 2017, 5:59:20 PM User: money required
+Monday, October 16th, 2017, 5:59:22 PM CloBot: Great. I believe money should come in the way of friendships.What's a comfortable timeframe for you to pay it back?: 
+Monday, October 16th, 2017, 5:59:26 PM User: sdfsdsf
+Monday, October 16th, 2017, 5:59:26 PM User: money other reasons
+Monday, October 16th, 2017, 5:59:27 PM CloBot: Thanks, do you have an on-going loan? : 
+Monday, October 16th, 2017, 5:59:34 PM User: No
+Monday, October 16th, 2017, 5:59:34 PM User: money timeline
+Monday, October 16th, 2017, 5:59:37 PM CloBot: We are almost done! Please share your AADHAR number and PAN number 
+ AADHAR number: 
+Monday, October 16th, 2017, 5:59:40 PM User: sdfsdf
+Monday, October 16th, 2017, 5:59:40 PM User: existing emi
+Monday, October 16th, 2017, 5:59:41 PM CloBot: PAN number: 
+Monday, October 16th, 2017, 5:59:48 PM User: sdfsfsfsfd
+Monday, October 16th, 2017, 5:59:48 PM User: aadhar no
+Monday, October 16th, 2017, 5:59:49 PM CloBot: Congratulations! Your loan request of Rs. 10,000 is approved. My colleague from Moneykit will call you to take this ahead. 
+Monday, October 16th, 2017, 5:59:54 PM User: Acceptx
+Monday, October 16th, 2017, 5:59:55 PM User: pan no
+Monday, October 16th, 2017, 5:59:57 PM CloBot: Great. Let me know a bit about the space that you call home?:
+Monday, November 6th, 2017, 2:51:23 PM User: hi
+Monday, November 6th, 2017, 2:51:23 PM User: undefined
+Monday, November 6th, 2017, 2:51:23 PM User: 1
+Monday, November 6th, 2017, 2:51:26 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 1:38:19 PM User: Hi
+Tuesday, December 19th, 2017, 1:38:19 PM User: undefined
+Tuesday, December 19th, 2017, 1:38:19 PM User: 1
+Tuesday, December 19th, 2017, 1:38:23 PM User: hi
+Tuesday, December 19th, 2017, 1:38:23 PM User: welcome
+Tuesday, December 19th, 2017, 1:38:29 PM User: Hello
+Tuesday, December 19th, 2017, 1:38:29 PM User: welcome
+Tuesday, December 19th, 2017, 1:38:36 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 1:38:36 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 1:38:36 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 1:44:13 PM User: Hello
+Tuesday, December 19th, 2017, 1:44:13 PM User: undefined
+Tuesday, December 19th, 2017, 1:44:13 PM User: 1
+Tuesday, December 19th, 2017, 1:44:26 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 7:36:40 PM User: hello
+Tuesday, December 19th, 2017, 7:36:40 PM User: undefined
+Tuesday, December 19th, 2017, 7:36:40 PM User: 1
+Tuesday, December 19th, 2017, 7:36:41 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 7:42:12 PM User: hello
+Tuesday, December 19th, 2017, 7:42:12 PM User: undefined
+Tuesday, December 19th, 2017, 7:42:12 PM User: 1
+Tuesday, December 19th, 2017, 7:42:13 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Tuesday, December 19th, 2017, 7:43:12 PM User: hello
+Tuesday, December 19th, 2017, 7:43:12 PM User: undefined
+Tuesday, December 19th, 2017, 7:43:12 PM User: 1
+Tuesday, December 19th, 2017, 7:43:12 PM CloBot: Thanks, let us know if your better half is a salaried or self-employed professional?:
+Tuesday, December 19th, 2017, 7:43:13 PM CloBot: Hey, welcome to Moneykit.
+You are just a few clicks away from getting the loan you want.
+Please help us with a few details about you.
+Wednesday, December 20th, 2017, 1:48:48 AM User: Hello
+Wednesday, December 20th, 2017, 1:48:48 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 1:49:53 AM User: hello
+Wednesday, December 20th, 2017, 1:49:54 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 1:58:22 AM User: what's slonkit
+Wednesday, December 20th, 2017, 9:14:07 AM User: hello
+Wednesday, December 20th, 2017, 9:14:08 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:31:34 AM User: hey
+Wednesday, December 20th, 2017, 9:31:34 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:44:50 AM User: can tell about slonki
+Wednesday, December 20th, 2017, 9:44:51 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:45:11 AM User: can you tell about slonkit
+Wednesday, December 20th, 2017, 9:45:12 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:45:38 AM User: can you tell me about slonkit
+Wednesday, December 20th, 2017, 9:45:38 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:46:11 AM User: tell me about slonkit
+Wednesday, December 20th, 2017, 9:46:11 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:46:48 AM User: what is slonkit?
+Wednesday, December 20th, 2017, 9:46:49 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:47:48 AM User: what is slonkit
+Wednesday, December 20th, 2017, 9:47:49 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:47:52 AM User: hi
+Wednesday, December 20th, 2017, 9:47:53 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:48:05 AM User: what is slonkit
+Wednesday, December 20th, 2017, 9:48:06 AM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Wednesday, December 20th, 2017, 9:49:47 AM User: what is slonkit
+Wednesday, December 20th, 2017, 9:50:28 AM User: by
+Wednesday, December 20th, 2017, 9:50:39 AM User: bye
+Wednesday, December 20th, 2017, 9:50:40 AM CloBot: See you later.....
+Wednesday, December 20th, 2017, 9:51:27 AM User: what is slonkit?
+Wednesday, December 20th, 2017, 9:53:44 AM User: hey
+Wednesday, December 20th, 2017, 9:53:45 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:53:54 AM User: what is slonkit
+Wednesday, December 20th, 2017, 9:56:05 AM User: why should I give my child a slonkit card?
+Wednesday, December 20th, 2017, 9:56:06 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:56:16 AM User: why should I give my child a slonkit card?
+Wednesday, December 20th, 2017, 9:56:16 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:56:21 AM User: hello
+Wednesday, December 20th, 2017, 9:56:22 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 9:56:31 AM User: what is slonkit
+Wednesday, December 20th, 2017, 9:57:45 AM User: yeah
+Wednesday, December 20th, 2017, 9:58:40 AM User: great
+Wednesday, December 20th, 2017, 10:04:40 AM User: hello
+Wednesday, December 20th, 2017, 10:04:41 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 10:04:50 AM User: what is slonkit?
+Wednesday, December 20th, 2017, 10:31:54 AM User: hello
+Wednesday, December 20th, 2017, 10:31:55 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 10:32:03 AM User: what is slonkit
+Wednesday, December 20th, 2017, 10:37:59 AM User: hello
+Wednesday, December 20th, 2017, 10:38:00 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 10:38:10 AM User: what is slonkit
+Wednesday, December 20th, 2017, 11:10:08 AM User: dear sir
+Wednesday, December 20th, 2017, 11:10:29 AM User: hello
+Wednesday, December 20th, 2017, 11:10:30 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 11:23:19 AM User: hello
+Wednesday, December 20th, 2017, 11:23:20 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 11:23:27 AM User: dear sir
+Wednesday, December 20th, 2017, 11:23:45 AM User: good evening
+Wednesday, December 20th, 2017, 11:28:02 AM User: Get started
+Wednesday, December 20th, 2017, 11:28:11 AM User: hey
+Wednesday, December 20th, 2017, 11:28:11 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 11:28:21 AM User: dear sir
+Wednesday, December 20th, 2017, 11:28:28 AM User: hey there
+Wednesday, December 20th, 2017, 11:28:29 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 11:32:56 AM User: hello
+Wednesday, December 20th, 2017, 11:32:56 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 11:33:28 AM User: what is slonkit
+Wednesday, December 20th, 2017, 11:33:54 AM User: good morning
+Wednesday, December 20th, 2017, 11:34:06 AM User: good evening
+Wednesday, December 20th, 2017, 11:34:13 AM User: hello
+Wednesday, December 20th, 2017, 11:34:14 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 12:21:48 PM User: hello
+Wednesday, December 20th, 2017, 12:21:48 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 12:21:53 PM User: dear sir
+Wednesday, December 20th, 2017, 12:26:09 PM User: good evening
+Wednesday, December 20th, 2017, 4:23:15 PM User: hello
+Wednesday, December 20th, 2017, 4:23:22 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 20th, 2017, 4:23:37 PM User: what is slonkit?
+Wednesday, December 20th, 2017, 4:23:38 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Wednesday, December 20th, 2017, 4:24:39 PM User: why should i give my child a slonkit card?
+Wednesday, December 20th, 2017, 4:24:40 PM CloBot: Using Slonkit you can introduce your children to responsible money management by: 
+– Creating a monthly budget 
+– Setting limits (per transaction, per day and per month)
+– Setting Alerts 
+ Slonkit also allows you to:
+– Instantly add money on the child’s card through your Slonkit app
+– Suspend or Block card with just a click
+Thursday, December 21st, 2017, 11:37:39 AM User: hello
+Thursday, December 21st, 2017, 11:38:05 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 21st, 2017, 12:45:52 PM User: what is slonkit
+Thursday, December 21st, 2017, 12:46:18 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Thursday, December 21st, 2017, 1:33:12 PM User: How do I reset the password of "XYZ" application?
+Thursday, December 21st, 2017, 1:33:43 PM CloBot: You can reset your password by doing the following: 
+1. Press CTRL+ALT+DEL 
+2. Select "Change Password" 
+3. Enter your current password, new password and confirm it.
+ 4 Your password will be reset instantly. Logout and Login again. 
+Thursday, December 21st, 2017, 1:34:19 PM User: I forgot my password. What should I do?
+Thursday, December 21st, 2017, 1:34:20 PM CloBot: Please contact the IT team at 7777 from your extension
+ and they will guide you. If you want us to raise a ticket, please type "Y"
+Thursday, December 21st, 2017, 1:34:38 PM User: What is the free diskspace in "ABC" Server?
+Thursday, December 21st, 2017, 1:34:39 PM CloBot: We have raised a ticket. The details will be shared with the server owner on their email ID registered with us. 
+Thursday, December 21st, 2017, 1:34:58 PM User: you suck
+Thursday, December 21st, 2017, 2:39:06 PM User: hello
+Thursday, December 21st, 2017, 2:39:12 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 21st, 2017, 2:43:25 PM User: how to reset password
+Thursday, December 21st, 2017, 2:43:27 PM CloBot: See you later.....
+Thursday, December 21st, 2017, 2:44:47 PM User: how to reset password of \cbs application
+Thursday, December 21st, 2017, 2:44:48 PM CloBot: Youngster (Age <18)
+A parent/ legal guardian/ well-wishers can add money on your Slonkit card
+Youngster (Age 18+)
+You can add money on your card yourself using the Slonkit app
+Thursday, December 21st, 2017, 2:45:29 PM User: how to reset password of xyz application
+Thursday, December 21st, 2017, 2:45:30 PM CloBot: Youngster (Age <18)
+A parent/ legal guardian/ well-wishers can add money on your Slonkit card
+Youngster (Age 18+)
+You can add money on your card yourself using the Slonkit app
+Thursday, December 21st, 2017, 2:47:18 PM User: How do I reset the password of XYZ application?
+Thursday, December 21st, 2017, 2:47:19 PM CloBot: You can reset your password by doing the following: 
+1. Press CTRL+ALT+DEL 
+2. Select "Change Password" 
+3. Enter your current password, new password and confirm it.
+ 4 Your password will be reset instantly. Logout and Login again. 
+Thursday, December 21st, 2017, 2:51:40 PM User: How do I reset the password of my laptop?
+Thursday, December 21st, 2017, 2:51:49 PM User: How do I reset the password of my laptop?
+Thursday, December 21st, 2017, 2:52:10 PM CloBot: You can reset your password by doing the following: 
+1. Press CTRL+ALT+DEL 
+2. Select "Change Password" 
+3. Enter your current password, new password and confirm it.
+ 4 Your password will be reset instantly. Logout and Login again. 
+Thursday, December 21st, 2017, 2:52:10 PM CloBot: You can reset your password by doing the following: 
+1. Press CTRL+ALT+DEL 
+2. Select "Change Password" 
+3. Enter your current password, new password and confirm it.
+ 4 Your password will be reset instantly. Logout and Login again. 
+Thursday, December 21st, 2017, 2:53:00 PM User: What is the free diskspace in "ABC" Server?
+Thursday, December 21st, 2017, 2:53:01 PM CloBot: We have raised a ticket. The details will be shared with the server owner on their email ID registered with us. 
+Thursday, December 21st, 2017, 2:58:07 PM User: show me chines restaurants
+Thursday, December 21st, 2017, 2:58:12 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Thursday, December 21st, 2017, 2:58:52 PM User: show me mexican restaurants
+Thursday, December 21st, 2017, 2:58:53 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query.
+Thursday, December 21st, 2017, 3:02:05 PM User: what is slonkit
+Thursday, December 21st, 2017, 3:02:06 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Thursday, December 21st, 2017, 3:02:23 PM User: tell me about slonkit
+Thursday, December 21st, 2017, 3:02:31 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Thursday, December 21st, 2017, 3:05:52 PM User: tell me about slonkit
+Thursday, December 21st, 2017, 3:05:53 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Thursday, December 21st, 2017, 3:29:04 PM User: hi
+Thursday, December 21st, 2017, 3:29:05 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 21st, 2017, 3:29:28 PM User: what is slonkit
+Thursday, December 21st, 2017, 3:29:30 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Thursday, December 21st, 2017, 3:30:14 PM User: who is chairman of slonkit
+Thursday, December 21st, 2017, 3:30:15 PM CloBot: You can select the “Report Lost Card” option on your Slonkit Mobile App and follow the instructions. You may also call  1800 2295 22 and seek assistance to block the card.
+Thursday, December 21st, 2017, 3:31:14 PM User: ceo of slonkit
+Thursday, December 21st, 2017, 3:31:16 PM CloBot: Youngster (Age <18)
+A parent/ legal guardian/ well-wishers can add money on your Slonkit card
+Youngster (Age 18+)
+You can add money on your card yourself using the Slonkit app
+Thursday, December 21st, 2017, 3:32:14 PM User: hello
+Thursday, December 21st, 2017, 3:32:20 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 21st, 2017, 3:37:23 PM User: hiiieieiei
+Thursday, December 21st, 2017, 3:37:24 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 21st, 2017, 3:37:32 PM User: how r u
+Thursday, December 21st, 2017, 3:37:34 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Thursday, December 21st, 2017, 3:38:00 PM User: i love you
+Thursday, December 21st, 2017, 3:38:01 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Friday, December 22nd, 2017, 10:41:48 AM User: hello
+Friday, December 22nd, 2017, 10:41:50 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Tuesday, December 26th, 2017, 1:07:21 PM User: hello
+Tuesday, December 26th, 2017, 1:07:58 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Tuesday, December 26th, 2017, 1:08:14 PM User: What is the age at which I can order a Slonkit youngster card?
+Tuesday, December 26th, 2017, 1:08:15 PM CloBot: The minimum age to order a Slonkit card is 18 years.
+Tuesday, December 26th, 2017, 1:08:30 PM User: What is the minimum age required to get a Slonkit youngster card?
+Tuesday, December 26th, 2017, 1:08:31 PM CloBot: The minimum age to order a Slonkit card is 18 years.
+Tuesday, December 26th, 2017, 2:59:33 PM User: Hi
+Tuesday, December 26th, 2017, 2:59:35 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, December 26th, 2017, 2:59:46 PM User: Hello
+Tuesday, December 26th, 2017, 2:59:47 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, December 26th, 2017, 2:59:58 PM User: Slonkit
+Tuesday, December 26th, 2017, 2:59:59 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Tuesday, December 26th, 2017, 3:01:03 PM User: What it is
+Tuesday, December 26th, 2017, 3:01:04 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Tuesday, December 26th, 2017, 3:01:23 PM User: How i can get card
+Tuesday, December 26th, 2017, 3:01:24 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, December 26th, 2017, 3:01:34 PM User: Is it free
+Tuesday, December 26th, 2017, 3:01:35 PM CloBot: Slonkit is the smarter way to manage money. It is a mobile app and VISA-DCB Bank reloadable prepaid card for children aged 10 onwards. It allows children and youngsters to make the best use of their pocket money in a safe and secure environment.
+Tuesday, December 26th, 2017, 3:01:57 PM User: Hello
+Tuesday, December 26th, 2017, 3:01:59 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, December 26th, 2017, 3:02:28 PM User: hello
+Tuesday, December 26th, 2017, 3:02:29 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Tuesday, December 26th, 2017, 3:35:10 PM User: Hello
+Tuesday, December 26th, 2017, 3:35:11 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, December 26th, 2017, 3:40:37 PM User: Hello
+Tuesday, December 26th, 2017, 3:41:11 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, December 26th, 2017, 5:49:35 PM User: Hello
+Tuesday, December 26th, 2017, 5:49:36 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 27th, 2017, 4:45:30 PM User: hello
+Wednesday, December 27th, 2017, 4:46:27 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Wednesday, December 27th, 2017, 4:46:35 PM User: hi
+Wednesday, December 27th, 2017, 4:46:36 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 28th, 2017, 10:12:53 AM User: hello
+Thursday, December 28th, 2017, 10:16:05 AM User: hello
+Thursday, December 28th, 2017, 10:17:08 AM User: hello
+Thursday, December 28th, 2017, 10:17:40 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Thursday, December 28th, 2017, 10:17:40 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Saturday, December 30th, 2017, 8:01:33 PM User: hi
+Saturday, December 30th, 2017, 8:02:16 PM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Saturday, December 30th, 2017, 8:03:17 PM User: minimum amount
+Saturday, December 30th, 2017, 8:03:28 PM CloBot: No, we currently do not allow transfers back to the bank. But, you can use your Slonkit card at all VISA-enabled merchant outlets and online.
+Sunday, December 31st, 2017, 4:20:48 PM User: minimum age
+Sunday, December 31st, 2017, 4:21:23 PM CloBot: Your child should be at least 10 years old to get a Slonkit card. 
+Sunday, December 31st, 2017, 4:23:01 PM User: can slonkit be used at atms
+Sunday, December 31st, 2017, 4:23:02 PM CloBot: Sorry. We do not allow cash withdrawals from ATM currently. However, you can use the card at any VISA-enabled merchant outlets or online.
+Monday, January 1st, 2018, 6:53:42 PM User: Can i get massages
+Monday, January 1st, 2018, 6:53:43 PM CloBot: Sorry. We do not allow cash withdrawals from ATM currently. However, you can use the card at any VISA-enabled merchant outlets or online.
+Monday, January 1st, 2018, 6:54:11 PM User: I want full body massage
+Monday, January 1st, 2018, 6:54:12 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Monday, January 1st, 2018, 6:55:37 PM User: I want to buy T shirts and shorts
+Monday, January 1st, 2018, 6:55:38 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Monday, January 1st, 2018, 7:00:56 PM User: Cars and trucks
+Monday, January 1st, 2018, 7:00:57 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Monday, January 1st, 2018, 7:07:45 PM User: I want one chicken tandoori and one Biryani
+Monday, January 1st, 2018, 7:07:46 PM CloBot: The maximum amount you can add in a month in Rs.10000
+Monday, January 1st, 2018, 7:08:26 PM User: Want to book a cab
+Monday, January 1st, 2018, 7:08:27 PM CloBot: Your child should be at least 10 years old to get a Slonkit card. 
+Monday, January 1st, 2018, 7:09:00 PM User: Best internet provider
+Monday, January 1st, 2018, 7:09:09 PM CloBot: No, we currently do not allow transfers back to the bank. But, you can use your Slonkit card at all VISA-enabled merchant outlets and online.
+Monday, January 1st, 2018, 7:19:48 PM User: New movies in this week
+Monday, January 1st, 2018, 7:19:49 PM CloBot: The maximum amount you can add in a month in Rs.10000
+Monday, January 1st, 2018, 7:23:51 PM User: I want to book a taxi
+Monday, January 1st, 2018, 7:23:53 PM CloBot: I am sorry I do not know the answer at this moment. A member of our customer happiness team will call you in the next one hour to address this query or call 1800 2295 22
+Tuesday, January 2nd, 2018, 9:41:16 AM User: Hi
+Tuesday, January 2nd, 2018, 9:41:46 AM CloBot: Hi there, I am Clobot, what would you like to know with respect to Slonkit?
+Tuesday, January 2nd, 2018, 9:42:12 AM User: Age for Slonkit card usage
+Tuesday, January 2nd, 2018, 9:42:19 AM CloBot: Your child should be at least 10 years old to get a Slonkit card. 

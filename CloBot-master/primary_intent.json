@@ -1,0 +1,146 @@
+[
+	{
+		"keyword":["GET STARTED"],
+		"intent":"get_started"
+	},
+
+	{
+		"keyword":["HELLO","HEY","HI","YO"],
+		"intent":"greeting"
+	},
+
+	{
+		"keyword":["EMPLOYEE","I AM AN EMPLOYEE","I AM EMPLOYEE","I AM A CLOVER EMPLOYEE","I AM CLOVER EMPLOYEE","I'M AN EMPLOYEE"],
+		"intent":"employee"
+	},
+
+	{
+		"keyword":["NON EMPLOYEE","I AM NOT AN EMPLOYEE","NOT EMPLOYEE","I AM NOT A CLOVER EMPLOYEE","I AM NOT CLOVER EMPLOYEE","I'M NOT AN EMPLOYEE"],
+		"intent":"non_employee"
+	},
+
+	{
+		"keyword":["RESTART","START OVER"],
+		"intent":"restart"
+	},
+
+	{
+		"keyword":["BYE","GOODBYE","THANK YOU","SEE YOU","THANKS"],
+		"intent":"goodbye"
+	},
+
+	{
+		"keyword":["CALL CUSTOMER SERVICE","CALL CUSTOMER SERVICE","CALL CUSTOMER SUPPORT","CUSTOMER SERVICE REPRESENTATIVE","CUSTOMER SERVICE"],
+		"intent":"customer_service"
+	},
+
+	{
+		"keyword":["FINANCE","PAYROLL","FINANCE PAYROLL"],
+		"intent":"finance"
+	},
+
+	{
+		"keyword":["PEOPLE","HR","PEOPLE/HR"],
+		"intent":"people"
+	},
+
+	{
+		"keyword":["JOB SEEKER","STUDENT","I WANT A JOB","I WANT AN INTERNSHIP","PROSPECTIVE EMPLOYEE"],
+		"intent":"job"
+	},
+
+	{
+		"keyword":["CUSTOMER","VENDOR","I AM A VENDOR","I AM A CUSTOMER"],
+		"intent":"customer"
+	},
+	
+	{
+		"keyword":["CREDIT CARD","I WANT TO KNOW ABOUT CREDIT CARDS","I WANT DETAILS ABOUT CREDIT CARD","CREDIT CARD INFO"],
+		"intent":"credit_card"
+	},
+	
+	{
+		"keyword":["I WANT TO APPLY FOR CREDIT CARD","APPLICATION","APPLY","HOW TO APPLY FOR A CREDIT CARD","PROCEDURE TO APPLY FOR A CREDIT CARD","CREDIT CARD APPLICATION PROCEDURE","PROCEDURE TO ACQUIRE A CREDIT CARD","APPLY CREDIT CARD","APPLY FOR A CREDIT CARD"],
+		"intent":"apply_credit_card"
+	},
+	
+	{
+		"keyword":["AM I ELIGIBLE FOR CREDIT CARDS","ELIGIBILITY FOR CREDIT CARDS","ELIGIBILITY","QUALIFICATION","QUALIFICATION FOR CREDIT CARDS","CREDIT CARD ELIGIBILITY","CREDIT CARD REQUIREMENTS"],
+		"intent":"eligible_credit_card"
+	},
+	{
+		"keyword":["WHAT TYPES OF BILLING OPTIONS ARE AVAILABLE TO ME","BILLING OPTIONS","BILL TYPES","BILLING FLAVORS","OPTIONS IN BILLS"],
+		"intent":"bill_opts_credit_card"
+	},
+	{
+		"keyword":["CAN MINORS GET A CREDIT CARD","CREDIT CARD FOR MINORS","CREDIT CARD ELIGIBILITY FOR MINORS","ARE MINORS ELIGIBLE FOR CREDIT CARDS"],
+		"intent":"minor_credit_card"
+	},
+	
+	{
+		"keyword":["WHAT ARE THE VARIOUS TYPES OF CREDIT CARDS","TYPES OF CREDIT CARDS","FLAVORS OF CREDIT CARDS","KINDS OF CREDIT CARDS"],
+		"intent":"types_credit_card"
+	},
+	
+	{
+		"keyword":["OTHERS","OTHER"],
+		"intent":"otherSD"
+	},
+	
+	{
+		"keyword":["MARRIED","MARRIED"],
+		"intent":"married"
+	},
+	
+	{
+		"keyword":["ACCEPTX"],
+		"intent":"acceptx"
+	},
+	
+	{
+		"keyword":["UPGRADEY"],
+		"intent":"Upgradey"
+	},
+	
+	{
+		"keyword":["WHAT IS A CORPORATE CARD","CORPORATE CARD","CORPORATE CARD DETAILS","CORPORATE CARD DEFINITION"],
+		"intent":"corporate_card_cc"
+	},
+	
+	{
+		"keyword":["WHAT IS THE PROCEDURE TO OBTAIN CORPORATE CARD","PROCEDURE FOR CORPORATE CARD","STEPS FOR CORPORATE CARD","HOW TO GET CORPORATE CARD","WAY TO GET CORPORATE CARD"],
+		"intent":"proc_corp_card"
+	},
+	
+	{
+		"keyword":["HOW MANY ADD-ON CARDS CAN BE ISSUED","NUMBER OF ADD-ON CARDS","MAX ADD-ON CARDS","MAXIMUM NUMBER OF ADD-ON CARDS"],
+		"intent":"add_on_cards"
+	},
+	
+	{
+		"keyword":["WHAT IS THE BILLING CYCLE OF A CARD","BILLING CYCLE OF A CARD","BILL CYCLE OF A CARD","BILLING CYCLE"],
+		"intent":"bill_cycle_card"
+	},
+	
+
+	{
+		"keyword":["YUP","YES","YEAH","OKAY","SURE","YA"],
+		"intent":"yes"
+	},
+
+	{
+		"keyword":["NO","NO THANKS","NOPE","NOT NEEDED"],
+		"intent":"no"
+	},
+
+	{
+		"keyword":["HELP","WHAT CAN YOU DO","HOW CAN YOU HELP ME","HELP ME PLEASE","I NEED HELP"],
+		"intent":"help"
+	},
+
+	{
+		"keyword":["START","STARTS"],
+		"intent":"start"
+	}
+
+]

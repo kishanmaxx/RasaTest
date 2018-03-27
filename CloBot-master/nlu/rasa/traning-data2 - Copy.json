@@ -1,0 +1,125 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [
+      {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "value": "chinese",
+        "synonyms": ["Chinese", "Chines", "chines"]
+      }
+    ],
+    "common_examples": [
+      {
+        "text": "GET STARTED",
+        "intent": "greeting",
+        "entities": []
+      }, 
+	  {
+        "text": "Getting started",
+        "intent": "greeting",
+        "entities": []
+      }, 
+	  {
+        "text": "GET PERSONAL BANKING", 
+        "intent": "personal_banking", 
+         "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "personal",
+            "entity": "bankingType"
+		  }
+        ]
+      },
+	  {
+        "text": "Banking personal", 
+        "intent": "personal_banking", 
+         "entities": [
+          {
+            "start": 9,
+            "end": 17,
+            "value": "personal",
+            "entity": "bankingType"
+		  }
+        ]
+      },
+	  {
+        "text": "CORPORATE BANKING", 
+        "intent": "corporate_banking", 
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "corporate",
+            "entity": "bankingType"
+		  }
+        ]
+      }, 
+	  {
+        "text": "Company BANKING", 
+        "intent": "corporate_banking", 
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Company",
+            "entity": "bankingType"
+		  }
+        ]
+      },
+	  {
+        "text": "ACCOUNTS", 
+        "intent": "accounts", 
+        "entities": []
+      }, 
+	  {
+        "text": "acc details", 
+        "intent": "accounts", 
+        "entities": []
+      },
+	  {
+        "text": "stage 1", 
+        "intent": "stage_1", 
+        "entities": []
+      }, 
+	  {
+        "text": "first stage", 
+        "intent": "stage_1", 
+        "entities": []
+      },
+	  {
+        "text": "second stage", 
+        "intent": "stage_2", 
+        "entities": []
+      }, 
+	  {
+        "text": "stage 2", 
+        "intent": "stage_2", 
+        "entities": []
+      },  
+	  {
+        "text": "third stage", 
+        "intent": "stage_3", 
+        "entities": []
+      },
+	  {
+        "text": "stage 3", 
+        "intent": "stage_3", 
+        "entities": []
+      },            
+      {
+        "text": "see you", 
+        "intent": "goodbyes", 
+        "entities": []
+      },{
+        "text": "bye", 
+        "intent": "goodbyes", 
+        "entities": []
+      }
+    ]
+  }
+}

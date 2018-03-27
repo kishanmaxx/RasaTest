@@ -1,0 +1,79 @@
+Wednesday, September 27th, 2017, 1:12:05 PM User: Hello
+Wednesday, September 27th, 2017, 1:12:07 PM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:00:17 AM User: Hello
+Thursday, October 5th, 2017, 11:00:19 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:00:46 AM User: Non employee
+Thursday, October 5th, 2017, 11:00:47 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 11:00:56 AM User: 1
+Thursday, October 5th, 2017, 11:00:58 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:01:12 AM User: Non employee
+Thursday, October 5th, 2017, 11:01:13 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 11:01:17 AM User: Customer
+Thursday, October 5th, 2017, 11:01:18 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:01:39 AM User: How many credit card types
+Thursday, October 5th, 2017, 11:01:41 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:02:12 AM User: Apply for credit card
+Thursday, October 5th, 2017, 11:02:13 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:07:04 AM User: Hello
+Thursday, October 5th, 2017, 11:07:06 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:07:22 AM User: Credit card types
+Thursday, October 5th, 2017, 11:07:24 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:07:44 AM User: Employee
+Thursday, October 5th, 2017, 11:07:45 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Thursday, October 5th, 2017, 11:07:57 AM User: HR
+Thursday, October 5th, 2017, 11:07:58 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:08:08 AM User: Restart
+Thursday, October 5th, 2017, 11:08:09 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:08:18 AM User: Employee
+Thursday, October 5th, 2017, 11:08:18 AM CloBot: Your question belongs to what category? 
+1) Finance/Payroll 
+2) People(HR)
+Thursday, October 5th, 2017, 11:08:25 AM User: People
+Thursday, October 5th, 2017, 11:08:26 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:09:06 AM User: Slippers
+Thursday, October 5th, 2017, 11:09:14 AM CloBot: Sorry Amjad I do not have an answer to this question yet. We will get back to you shortly
+Thursday, October 5th, 2017, 11:09:16 AM CloBot: Would you like to know anything else Amjad? (Yes/No)
+Thursday, October 5th, 2017, 11:09:22 AM User: Yes
+Thursday, October 5th, 2017, 11:09:24 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:09:31 AM User: Dress code
+Thursday, October 5th, 2017, 11:09:35 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:09:43 AM User: Weekdays
+Thursday, October 5th, 2017, 11:09:46 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:10:03 AM User: Restart
+Thursday, October 5th, 2017, 11:10:04 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:19:51 AM User: Restart
+Thursday, October 5th, 2017, 11:19:53 AM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 11:20:04 AM User: Non employee
+Thursday, October 5th, 2017, 11:20:06 AM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 11:20:11 AM User: Customer
+Thursday, October 5th, 2017, 11:20:12 AM CloBot: What is your query?
+Thursday, October 5th, 2017, 11:20:48 AM User: Credit card
+Thursday, October 5th, 2017, 11:20:50 AM CloBot: Hey Amjad, Please type your question related to credit card..
+Thursday, October 5th, 2017, 11:21:03 AM User: Application
+Thursday, October 5th, 2017, 11:21:04 AM CloBot: Hey Amjad, Submit a duly completed and signed application form to the Branch and make sure your KYC documents are verified.  
+ If you have further queries related to credit card, Please type your question
+Thursday, October 5th, 2017, 3:49:47 PM User: Credit card info
+Thursday, October 5th, 2017, 3:49:49 PM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 3:49:59 PM User: Restart
+Thursday, October 5th, 2017, 3:50:01 PM CloBot: Hello, Amjad I am CloBot. I am designed to answer any questions you may have. To restart, type 'Restart'. But first, are you a Clover employee or a non-employee?
+Thursday, October 5th, 2017, 3:50:18 PM User: Non employee
+Thursday, October 5th, 2017, 3:50:19 PM CloBot: Who would you describe yourself as? 
+1) Customer 
+2) Job Seeker/Student
+Thursday, October 5th, 2017, 3:50:30 PM User: Customer
+Thursday, October 5th, 2017, 3:50:32 PM CloBot: What is your query?
+Thursday, October 5th, 2017, 3:50:50 PM User: Credit card info
+Thursday, October 5th, 2017, 3:50:51 PM CloBot: Hey Amjad, Please type your question related to credit card..
+Thursday, October 5th, 2017, 3:51:37 PM User: I want to know about credit cards
+Thursday, October 5th, 2017, 3:51:39 PM CloBot: Hey Amjad, Please type your question related to credit card..
+Thursday, October 5th, 2017, 3:51:54 PM User: Apply
+Thursday, October 5th, 2017, 3:51:58 PM CloBot: Hey Amjad, Submit a duly completed and signed application form to the Branch and make sure your KYC documents are verified.  
+ If you have further queries related to credit card, Please type your question

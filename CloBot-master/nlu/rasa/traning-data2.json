@@ -1,0 +1,97 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [
+      {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "value": "chinese",
+        "synonyms": ["chinese", "chines", "chines"]
+      }
+    ],
+    "common_examples": [
+      {
+        "text": "get started",
+        "intent": "greeting",
+        "entities": []
+      }, 
+	  {
+        "text": "getting started",
+        "intent": "greeting",
+        "entities": []
+      }, 
+	  {
+        "text": "personal", 
+        "intent": "personal_banking", 
+         "entities": []
+      },
+	  {
+        "text": "personalized", 
+        "intent": "personal_banking", 
+         "entities": []
+      },
+	  {
+        "text": "corporate", 
+        "intent": "corporate_banking", 
+        "entities": []
+      }, 
+	  {
+        "text": "company", 
+        "intent": "corporate_banking", 
+        "entities": []
+      },
+	  {
+        "text": "accounts", 
+        "intent": "accounts", 
+        "entities": []
+      }, 
+	  {
+        "text": "acc details", 
+        "intent": "accounts", 
+        "entities": []
+      },
+	  {
+        "text": "stage 1", 
+        "intent": "stage_1", 
+        "entities": []
+      }, 
+	  {
+        "text": "first stage", 
+        "intent": "stage_1", 
+        "entities": []
+      },
+	  {
+        "text": "second stage", 
+        "intent": "stage_2", 
+        "entities": []
+      }, 
+	  {
+        "text": "stage 2", 
+        "intent": "stage_2", 
+        "entities": []
+      },  
+	  {
+        "text": "third stage", 
+        "intent": "stage_3", 
+        "entities": []
+      },
+	  {
+        "text": "stage 3", 
+        "intent": "stage_3", 
+        "entities": []
+      },            
+      {
+        "text": "see you", 
+        "intent": "goodbyes", 
+        "entities": []
+      },{
+        "text": "bye", 
+        "intent": "goodbyes", 
+        "entities": []
+      }
+    ]
+  }
+}
